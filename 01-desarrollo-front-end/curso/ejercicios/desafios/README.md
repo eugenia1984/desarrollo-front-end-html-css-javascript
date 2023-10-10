@@ -1,4 +1,4 @@
-# DESAFIOS
+# <img width="40" height="40" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="laptop"/> DESAFIOS
 
 Ejercicios complejos que se encuentran en algunas secciones.
 
