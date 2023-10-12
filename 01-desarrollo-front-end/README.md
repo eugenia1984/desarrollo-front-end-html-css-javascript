@@ -4,7 +4,7 @@ Este curso se compone de una compilación de cursos escogidos para convertirte e
 
 Los cursos de este curso son:
 
-- Un curso sobre el lenguaje de marcas HTML5.
+<img width="40" height="40" src="https://img.icons8.com/emoji/40/check-mark-emoji.png" alt="check mark"/> Un curso sobre el lenguaje de marcas [**HTML5**](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/intro_html.md).
 
 - Un curso sobre como crear y aplicar estilos a tu web con el lenguaje en cascada CSS3.
 
@@ -31,5 +31,25 @@ Si siempre has querido ser un buen desarrollador web, este es un buen principio 
 ## Instructor
 
 Daniel Fernández Velázquez
+
+---
+
+## Ejercicios
+Dentro de [curso/ejercicios](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios) están las prácticas del curso.
+
+La estructura es:
+
+```
+> 01-desarrollo-front-end
+    > curso
+       > css
+       > ejerccicios
+       > estilos
+       > html
+       > imagenes
+       > webs
+    README.md
+README.md
+```
 
 ---
