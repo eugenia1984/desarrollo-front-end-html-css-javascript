@@ -1,4 +1,4 @@
-# <img width="40" height="40" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="laptop"/>  Desarrollo Front End: HTML5, CSS3, JavaScript 
+# <img width="40" height="40" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="laptop"/> Desarrollo Front End: HTML5, CSS3, JavaScript
 
 ## Aprende a crear sitios o aplicaciones web con HTML5, CSS3, JavaScript y compleméntalo con Less, JQuery o VUE
 
@@ -6,7 +6,7 @@ Este curso se compone de una compilación de cursos escogidos para convertirte e
 
 Los cursos de este curso son:
 
-<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre el lenguaje de marcas **HTML5**: [introducción a HTML5](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/intro_html.md), [emmet abreviation](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/emmet.md).
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre el lenguaje de marcas **HTML5**: [introducción a HTML5](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/intro_html.md), [emmet abreviation](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/emmet.md), [rutas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/turas.md)
 
 - Un curso sobre como crear y aplicar estilos a tu web con el lenguaje en cascada **CSS3**.
 
@@ -22,7 +22,7 @@ Los cursos de este curso son:
 
 ---
 
-Cuando acabes el curso estarás preparado para crear sitios y aplicaciones web totalmente interactivas, tendrás unas bases solidas de todos los  lenguajes o aplicaciones que aparecen en estos cursos, podrás trabajar en proyectos solo o en grupo más complejos que solo-  una simple página web y mejoraras mucho la lógica de programación a través de muchos ejercicios.
+Cuando acabes el curso estarás preparado para crear sitios y aplicaciones web totalmente interactivas, tendrás unas bases solidas de todos los lenguajes o aplicaciones que aparecen en estos cursos, podrás trabajar en proyectos solo o en grupo más complejos que solo- una simple página web y mejoraras mucho la lógica de programación a través de muchos ejercicios.
 
 ---
 
@@ -37,6 +37,7 @@ Daniel Fernández Velázquez
 ---
 
 ## Ejercicios
+
 Dentro de [curso/ejercicios](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios) están las prácticas del curso.
 
 La estructura es:
