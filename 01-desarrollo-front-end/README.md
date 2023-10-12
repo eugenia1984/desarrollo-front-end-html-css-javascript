@@ -1,4 +1,6 @@
-# <img width="40" height="40" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="laptop"/>  Desarrollo Front End: HTML5, CSS3, JavaScript (Aprende a crear sitios o aplicaciones web con HTML5, CSS3, JavaScript y compleméntalo con Less, JQuery o VUE)
+# <img width="40" height="40" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="laptop"/>  Desarrollo Front End: HTML5, CSS3, JavaScript 
+
+## Aprende a crear sitios o aplicaciones web con HTML5, CSS3, JavaScript y compleméntalo con Less, JQuery o VUE
 
 Este curso se compone de una compilación de cursos escogidos para convertirte en un buen desarrollador web front end.
 
