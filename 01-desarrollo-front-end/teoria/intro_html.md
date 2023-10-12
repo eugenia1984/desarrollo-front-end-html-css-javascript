@@ -132,8 +132,23 @@ Características de las etiquetas o elementos html. Algunos ejemplos:
 
 ##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Atributos id y clase
 
+- El atributo **id** es único e irrepetible, en cambio el atributo **class** puede tener más de uno.
+
+Ejemplo: 
+```HTML
+<p id="p1" class="primary">Este es el párrafo principal</p>
+<p id="p2" class="primary">Este es el párrafo scundario</p>
+```
+
+Los nombres deben ser significativos, el p1, p2 es un mal ejemplo.
+
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/>
+##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Listado de etiquetas de bloque y de linea
+
+
+- ETIQUETAS DE BLOQUE: `<address>`, `<article>`, `<aside>`, `<blockquote>`, `<canvas>`, `<dd>`, `<div>`, `<dl>`, `<dt>`, `<fieldset>`, `<figcaption>`, `<figure>`, `<footer>`, `<form>`, `<h1>` a `<h6>`, `<header>`, `<hr>`, `<li>`, `<main>`, `<nav>`, `<ol>`, `<p>`, `<pre>`, `<section>`, `<table>`, `<tfoot>`, `<ul>`, `<video>`
+
+- ETIQUETAS DE LÍNEA: `<a>`, `<abbr>`, `<b>`, `<big>`, `<br>`, `<button>`, `<cite>`, `<code>`, `<dfn>`, `<em>`, `<i>`, `<img>`, `<input>`, `<kbd>`, `<label>`, `<map>`, `<output>`, `<q>`, `<samp>`, `<script>`, `<select>`, `<small>`, `<span>`, `<strong>`, `<sub>`,`<sup>`, `<textarea>`, `<time>`, `<var>`
 
 ---
