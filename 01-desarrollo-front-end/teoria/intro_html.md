@@ -1,6 +1,6 @@
 # <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Introduccion a HTML5
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/>  Estructura básica de html: `html:5`
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Estructura básica de html: `html:5`
 
 ```HTML
 <!DOCTYPE html>
@@ -26,7 +26,7 @@ Dejamos solo lo más básico, aca borramos las meta tags.
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Etiquetas de bloque y linea
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Etiquetas de bloque y linea
 
 - Etiquetas de bloque: `<div>`, `<p>`, `<h1>`, ..., `<h6>`
 
@@ -34,7 +34,7 @@ Dejamos solo lo más básico, aca borramos las meta tags.
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Primer contacto
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Primer contacto
 
 - `<h1>`, ..., `<h6>`: encabezados van del h1 al h6, hay un solo h1 por página, a medida que va descendiendo del número se va achicando el tamaño del texto
 
@@ -44,7 +44,7 @@ Dejamos solo lo más básico, aca borramos las meta tags.
 
 - `<b>`: bold, pone el texto en negrita, pero si quiero sematicamente indicar que es un texto importante uso: - `<strong>`
 
-- `<u>`: **underline** para subrayar 
+- `<u>`: **underline** para subrayar
 
 - `<i>`: **italic**, para italica, en cursiva
 
@@ -62,7 +62,7 @@ Otro ejemplo es la etiqueta `<body>` que anida todas las etiquetas que crean la 
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Formatear textos
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Formatear textos
 
 - `<sup>`: supindice, empequeñece el texto y lo eleva
 
@@ -96,8 +96,7 @@ Otro ejemplo es la etiqueta `<body>` que anida todas las etiquetas que crean la 
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Etiquetas semáticas
-
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Etiquetas semáticas
 
 **elemento semantico** las etiquetas de apertura y cierre y todo lo que contiene dentro, describe claramente su significado, tanto para el navegador, como para el desarrollador. Bueneo para el SEO.
 
@@ -113,7 +112,7 @@ Otro ejemplo es la etiqueta `<body>` que anida todas las etiquetas que crean la 
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Atributos en etiquetas
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Atributos en etiquetas
 
 Características de las etiquetas o elementos html. Algunos ejemplos:
 
@@ -129,12 +128,12 @@ Características de las etiquetas o elementos html. Algunos ejemplos:
 
 ---
 
-
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Atributos id y clase
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Atributos id y clase
 
 - El atributo **id** es único e irrepetible, en cambio el atributo **class** puede tener más de uno.
 
-Ejemplo: 
+Ejemplo:
+
 ```HTML
 <p id="p1" class="primary">Este es el párrafo principal</p>
 <p id="p2" class="primary">Este es el párrafo scundario</p>
@@ -144,8 +143,7 @@ Los nombres deben ser significativos, el p1, p2 es un mal ejemplo.
 
 ---
 
-##  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Listado de etiquetas de bloque y de linea
-
+## <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5"/> Listado de etiquetas de bloque y de linea
 
 - ETIQUETAS DE BLOQUE: `<address>`, `<article>`, `<aside>`, `<blockquote>`, `<canvas>`, `<dd>`, `<div>`, `<dl>`, `<dt>`, `<fieldset>`, `<figcaption>`, `<figure>`, `<footer>`, `<form>`, `<h1>` a `<h6>`, `<header>`, `<hr>`, `<li>`, `<main>`, `<nav>`, `<ol>`, `<p>`, `<pre>`, `<section>`, `<table>`, `<tfoot>`, `<ul>`, `<video>`
 
