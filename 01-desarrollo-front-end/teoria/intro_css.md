@@ -101,3 +101,9 @@ p {
 </body>
 </html>
 ```
+
+-> Asi se ve en el navegador:
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/f5bc80f8-4101-4be7-88fa-2a7c5114808b)
+
+---
