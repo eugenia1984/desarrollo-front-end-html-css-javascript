@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://img.icons8.com/color/30/css3.png" type="image/png">
+  <title>Comportamiento de visualizacion</title>
+  <style>
+    span {
+      background-color: #b3a9a9;
+      width: 480px;
+      height: 50px;
+      margin:30px;
+      padding-bottom: 30px;
+    }
+
+    .di {
+      display: inline;
+    }
+
+    .dib {
+      display: inline-block;
+    }
+
+    .db {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <p>Este elemento es un párrafo, por defecto está en display: block, <span class="di">este elemento es un span, por defecto esta en display: inline,</span> como ves se mantiene en su línea.</p>
+  <hr>
+  <p>Este elemento es un párrafo, por defecto está en display: block, <span class="dib">este elemento es un span, por defecto esta en display: inline-block,</span> como ves se mantiene en su línea.</p>
+  <hr>
+  <p>Este elemento es un párrafo, por defecto está en display: block, <span class="db">este elemento es un span, por defecto esta en display: block,</span> como ves se mantiene en su línea.</p>
+</body>
+</html>

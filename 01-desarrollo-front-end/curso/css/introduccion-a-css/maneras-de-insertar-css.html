@@ -7,8 +7,15 @@
   <link rel="stylesheet" href="./estilos.css">
   <title>SManeras de insertar CSS</title>
   <style>
+    * {
+      /* Para resetear y que se vea todo igual en todos los  navegador */
+      margin: 0;
+      padding: 0;
+    }
     #interno {
       color: palevioletred;
+      /* Por cascada queda verde, pisa al anterior */
+      color: green; 
     }
   </style>
 </head>

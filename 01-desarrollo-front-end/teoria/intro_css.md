@@ -107,3 +107,11 @@ p {
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/f5bc80f8-4101-4be7-88fa-2a7c5114808b)
 
 ---
+
+##  <img width="30" height="30" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  Prioridad de estilos
+
+- El estilo en linea tiene mas peso que el estilo interno o externo
+
+- Los estilo interno o externo tienen la misma preponderancia, solo depende de quien se aplique primero si primero tenemos la etqieuta `<link>` y luego la `<style></style>`, por cascada si la propiedad se repite se vera la ultima, es decir la de `<style></style>`, la última que encuentra.
+
+---
