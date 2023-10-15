@@ -145,3 +145,9 @@ p {
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/a74616f7-5095-4f69-b5ff-21db4c08a1a1)
 
 ---
+
+## Selector general de hermanos `~`
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/668e9ce1-4e6d-47fb-a54f-f317ff82caba)
+
+---
