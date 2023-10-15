@@ -191,3 +191,58 @@ p {
 ```
 
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/d8766d76-b240-47c4-bb76-6a07aac2e692)
+
+
+### Ejercicio 2
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    h3>u {
+      text-decoration: underline;
+    }
+
+    address>b {
+      color: red;
+    }
+
+    h3+address {
+      background-color: antiquewhite;
+      padding: 1rem;
+      max-width: 400px;
+      border-radius: 7px;
+      margin-bottom: 2rem;
+    }
+
+    address+hr {
+      border: 2px solid yellow;
+    }
+  </style>
+</head>
+
+<body>
+  <hr>
+  <h3><u>María Eugenia Costa</u></h3>
+  <address>
+    <b>Población</b>: Argentina.<br>
+    <b>Provincia</b>: Buenos Aires.<br>
+    <b>Dirección</b>: en algun lugar de San Isidro.<br>
+    <b>Correo</b>: <u>ejemplo@ejemplo.com</u><br>
+    <b>Teléfono</b>: + 54 11 2222 3333.
+  </address>
+  <hr>
+</body>
+
+</html>
+```
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0ccf6bda-ddf2-4282-a6e6-acb5c3e2cdfb)
+
+
+---
