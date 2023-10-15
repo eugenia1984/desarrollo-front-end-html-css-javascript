@@ -120,3 +120,9 @@ p {
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0ff1e574-91f1-4513-8f81-f6d4b810af6f)
 
 ---
+
+## Selectores simples
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/8f8120ec-80cf-40a9-bd40-be4a1aab7e2b)
+
+---
