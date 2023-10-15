@@ -115,3 +115,8 @@ p {
 - Los estilo interno o externo tienen la misma preponderancia, solo depende de quien se aplique primero si primero tenemos la etqieuta `<link>` y luego la `<style></style>`, por cascada si la propiedad se repite se vera la ultima, es decir la de `<style></style>`, la última que encuentra.
 
 ---
+
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0ff1e574-91f1-4513-8f81-f6d4b810af6f)
+
+---
