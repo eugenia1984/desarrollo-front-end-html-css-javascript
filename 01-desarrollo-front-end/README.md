@@ -14,9 +14,11 @@ Los cursos de este curso son:
 
 -[rutas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/rutas.md)
 
--[introduccion a CSS](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/intro_css.md)
 
-- Un curso sobre como crear y aplicar estilos a tu web con el lenguaje en cascada **CSS3**.
+
+-  <img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre como crear y aplicar estilos a tu web con el lenguaje en cascada **CSS3**.
+
+-[introduccion a CSS](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/intro_css.md)
 
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
