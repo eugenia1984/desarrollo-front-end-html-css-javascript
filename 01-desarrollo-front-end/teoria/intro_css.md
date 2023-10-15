@@ -8,14 +8,14 @@
 
 ```
 > introduccion-a-css
-  sintaxis-de-css.html
-  maneras-de-inserar-css.html
-  comportamiento.de.visualizacion.html
-  salectores-simples.html
-  selector-de-descendientes.html
-  solector-de-hijos.html
-  selector-de-hermanos-adyacentes.html
-  selector-general-de-hermanos.html
+    sintaxis-de-css.html
+    maneras-de-inserar-css.html
+    comportamiento.de.visualizacion.html
+    salectores-simples.html
+    selector-de-descendientes.html
+    solector-de-hijos.html
+    selector-de-hermanos-adyacentes.html
+    selector-general-de-hermanos.html
 ```
 
 ---
