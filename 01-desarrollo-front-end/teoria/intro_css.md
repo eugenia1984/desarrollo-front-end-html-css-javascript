@@ -41,4 +41,13 @@ p {
 }
 ```
 
+-> comentario: van entre `/* */`
+
+```CSS
+p {
+  /* Ejemplo de comentario*/
+  color: #fff;
+  sont-size: 32px;
+}
+```
 ---
