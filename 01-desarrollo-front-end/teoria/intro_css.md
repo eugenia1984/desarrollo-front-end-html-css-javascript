@@ -127,6 +127,14 @@ p {
 
 ---
 
+## Selector de hijos `>`
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/d10c87ae-cef7-42de-b9bf-3cfcdf631c38)
+
+---
+
+---
+
 ## Selectores descendientes
 
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/ec4c263c-bde6-4132-99d5-0ed0f4fba0b4)
