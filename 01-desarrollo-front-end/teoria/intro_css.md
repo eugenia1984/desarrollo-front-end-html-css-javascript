@@ -151,3 +151,41 @@ p {
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/668e9ce1-4e6d-47fb-a54f-f317ff82caba)
 
 ---
+
+## Ejercicios basicos
+
+### Ejercico 1:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejercicio 1</title>
+  <style>
+    p {
+      background-color: antiquewhite;
+    }
+
+    sup,
+    sub {
+      color: red;
+    }
+
+    kbd {
+      color: green;
+    }
+  </style>
+</head>
+
+<body>
+  <p>3<sup>3</sup> x 10<sup>3</sup> = 27000</p>
+  <p>Calle Juan Pescador n<sup>o</sup> 52</p>
+  <p>Oxigeno es igual a O<sub>2</sub></p>
+  <p><q>En la vida hay algo peor que el fracaso: el no haber intentado nada.</q> Franklin D. Roosvelt</p>
+  <p>La <abbr title="Organización de las Naciones Unidas">ONU</abbr> es una organización internacional</p>
+  <p>Para guardar un archivo en sublime text pulsa <kbd>Ctrl</kbd> + <kbd>S</kbd></p>
+</body>
+</html>
+```
