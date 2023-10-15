@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,16 +13,24 @@
       margin: 0;
       padding: 0;
     }
+
     #interno {
       color: palevioletred;
       /* Por cascada queda verde, pisa al anterior */
-      color: green; 
+      color: green;
     }
   </style>
 </head>
+
 <body>
-  <p style="color: mediumturquoise">Estilo en línea</p>
-  <p id="interno">Estilo interno</p>
-  <p id="externo">Estilo externo</p>
+  <header>
+    <h1>Maneras de insertar CSS</h1>
+  </header>
+  <main>
+    <p style="color: mediumturquoise">Estilo en línea</p>
+    <p id="interno">Estilo interno</p>
+    <p id="externo">Estilo externo</p>
+  </main>
 </body>
+
 </html>

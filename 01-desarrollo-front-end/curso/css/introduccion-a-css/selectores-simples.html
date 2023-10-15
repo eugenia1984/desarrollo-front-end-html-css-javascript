@@ -1,12 +1,36 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="https://img.icons8.com/color/30/css3.png" type="image/png">
   <title>Selectores Simples</title>
+  <style>
+    /* Selector universal: * */
+    * { text-align: center;}
+    /* Selector por nombre */
+    body { background-color: #1d2a35;}
+    h1 { color: mediumturquoise; }
+    /* Selector por id, es unico, se asigna con: # */
+    #capitalizar { 
+      color: mediumaquamarine;
+      text-transform: capitalize;
+    }
+    /* Selector por calsse, con . */
+    .p1 { font-size: 24px; }
+    .p2 { font-size: 30px;}
+    
+  </style>
 </head>
 <body>
-  
+  <header>
+    <h1>CSS: selectores simples</h1>
+  </header>
+  <main>
+    <p class="p1">Cascading Style Sheets</p>
+    <p class="p2" id="capitalizar">Hojas de estilos en cascada</p>
+  </main>
 </body>
+
 </html>
