@@ -133,10 +133,15 @@ p {
 
 ---
 
----
 
 ## Selectores descendientes
 
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/ec4c263c-bde6-4132-99d5-0ed0f4fba0b4)
+
+---
+
+## Selectores de hermanos `+`
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/a74616f7-5095-4f69-b5ff-21db4c08a1a1)
 
 ---
