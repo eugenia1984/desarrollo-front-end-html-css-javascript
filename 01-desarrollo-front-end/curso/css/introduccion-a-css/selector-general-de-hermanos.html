@@ -1,12 +1,64 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="https://img.icons8.com/color/30/css3.png" type="image/png">
   <title>Selector general de hermanos</title>
+  <style>
+    h2~p {
+      color: gray;
+    }
+
+    i~b {
+      color: green;
+    }
+
+    b~i {
+      color: orange;
+    }
+
+    b~b {
+      color: yellow;
+    }
+  </style>
 </head>
+
 <body>
-  
+  <header>
+    <h1>Selector general de hermanos</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Título del encabezado</h2>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores.
+        <i>El selector de descendientes</i>, <b>el selector de hijos</b>, <b>el selector de hermanos adyacentes</b> y
+        <i><b>el selector
+            general de hermanos</b></i>.
+      </p>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores.
+        <i>El selector de descendientes</i>, <b>el selector de hijos</b>, <b>el selector de hermanos adyacentes</b> y
+        <i><b>el selector
+            general de hermanos</b></i>.
+      </p>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores.
+        <i>El selector de descendientes</i>, <b>el selector de hijos</b>, <b>el selector de hermanos adyacentes</b> y
+        <i><b>el selector
+            general de hermanos</b></i>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Título del encabezado</h2>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores. El selector de descendientes, el selector
+        de hijos, el selector de hermanos adyacentes y <i>el selector general de hermanos</i>.</p>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores. El selector de descendientes, el selector
+        de hijos, el selector de hermanos adyacentes y <i>el selector general de hermanos</i>.</p>
+      <p>Este es un texto de ejemplo para mostrar los selectores combinadores. El selector de descendientes, el selector
+        de hijos, el selector de hermanos adyacentes y <i>el selector general de hermanos</i>.</p>
+    </section>
+  </main>
 </body>
+
 </html>
