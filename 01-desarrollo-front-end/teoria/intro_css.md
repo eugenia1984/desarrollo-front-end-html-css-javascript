@@ -156,7 +156,7 @@ p {
 
 ### Ejercico 1:
 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -189,3 +189,5 @@ p {
 </body>
 </html>
 ```
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/d8766d76-b240-47c4-bb76-6a07aac2e692)
