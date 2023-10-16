@@ -22,6 +22,8 @@ Los cursos de este curso son:
 
 - [Colores](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/colores.md)
 
+- [Dimensiones](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/dimensiones.md)
+  
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
 - Un curso para ser mas eficiente con CSS a través de **LESS**.
