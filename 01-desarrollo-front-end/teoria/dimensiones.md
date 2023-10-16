@@ -31,3 +31,20 @@ En este ejemplo se aplico en los `div`, pero tambien se puede aplicar en los `p`
 ```
 
 ---
+
+## Ancho maximo y minimo
+
+Si usamos `max-width` evitamos el scroll en x cuando la pantalla es mas angosta que ese ancho maximo; esto no sucede si se tiene solo el `width`.
+
+Si le doy tanto maximo como minimo, si la pantalla es mas chica que el minimo establecido tengo scroll en x:
+
+```CSS
+.p-3 {
+  max-width: 1000px;
+  min-width: 800px;
+}
+```
+
+-> Lo mismo pasa con el alto
+
+---
