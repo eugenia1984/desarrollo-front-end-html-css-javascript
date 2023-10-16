@@ -56,3 +56,42 @@ Si le doy tanto maximo como minimo, si la pantalla es mas chica que el minimo es
 -> Lo mismo pasa con el alto
 
 ---
+
+# Ejemplos para ejercicios de la sección
+Basándote en la imagen y las pistas, crea el código html y su estilo:
+
+Ejemplo: hay un recuadro rojo, con el texto blanco
+
+
+Solución:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .caja {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+  }
+</style>
+</head>
+<body>
+  <p class="caja">p.caja<br>100x100px</p>
+</body>
+</html>
+```
+
+Las pistas eran:
+
+- Es un párrafo con clase caja: p.caja
+
+- Sus dimensiones son 100x100 píxeles: 100x100px
+
+- El color de fondo es rojo.
+
+- El color del texto es blanco.
+
+---
