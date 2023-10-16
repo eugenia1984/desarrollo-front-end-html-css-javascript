@@ -45,6 +45,14 @@ Si le doy tanto maximo como minimo, si la pantalla es mas chica que el minimo es
 }
 ```
 
+---
+
+## Medidas absolutas
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/8f8992bf-3d4c-4f6e-a1bc-2f8d969fdc96)
+
+---
+
 -> Lo mismo pasa con el alto
 
 ---
