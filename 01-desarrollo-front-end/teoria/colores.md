@@ -44,3 +44,9 @@ p {
 - **color** para el color del texto.
 
 ---
+
+## <img width="40" height="40" src="https://img.icons8.com/external-others-iconmarket/40/external-colors-graphic-design-others-iconmarket-5.png" alt="colors"/>  Ejercicio:
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/7e16355e-ef64-4cca-90cf-733aa5bea630)
+
+---
