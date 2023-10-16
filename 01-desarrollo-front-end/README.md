@@ -8,17 +8,17 @@ Los cursos de este curso son:
 
 <img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre el lenguaje de marcas **HTML5**: 
 
-- [introducción a HTML5](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/intro_html.md)
+- [Introducción a HTML5](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/intro_html.md)
 
-- [emmet abreviation](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/emmet.md)
+- [Emmet abreviation](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/teoria/emmet.md)
 
-- [rutas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/rutas.md)
+- [Rutas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/rutas.md)
 
 
 
 <img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre como crear y aplicar estilos a tu web con el lenguaje en cascada **CSS3**.
 
-- [introduccion a CSS](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/intro_css.md)
+- [Introduccion a CSS](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/intro_css.md)
 
 - [Colores](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/colores.md)
 
