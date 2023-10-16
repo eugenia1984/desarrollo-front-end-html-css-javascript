@@ -1,11 +1,82 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Medidas relativas</title>
+  <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+    }
+
+    .px {
+      width: 200px;
+      height: 200px;
+      background-color: dodgerblue;
+      margin: auto;
+      margin-bottom: 12px;
+    }
+
+    .px>div {
+      background-color: skyblue;
+    }
+
+    .vw {
+      /* 10% de la ventana del navegador*/
+      /* Solo cambia el ancho */
+      width: 10vw;
+      height: 10vw;
+    }
+
+    .vh {
+      /* 10% de la ventana del navegador*/
+      /* solo cambia el alto */
+      width: 10vh;
+      height: 10vh;
+    }
+
+    .vmin {
+      width: 10vmin;
+      height: 10vmin;
+    }
+
+    .vmax {
+      width: 10vmax;
+      height: 10vmax;
+    }
+
+    .tpc {
+      /* Depende del tamaño del elemento contenedor */
+      /* Tuve que agregar los tamaños a las etiquetas html y body */
+      width: 10%;
+      height: 10%;
+    }
+  </style>
 </head>
+
 <body>
-  
+  <header>
+    <h1>Medidas relativas</h1>
+  </header>
+  <main>
+    <div class="px">
+      <div class="vw">vw</div>
+    </div>
+    <div class="px">
+      <div class="vh">vh</div>
+    </div>
+    <div class="px">
+      <div class="vmin">vmin</div>
+    </div>
+    <div class="px">
+      <div class="vmax">vmax</div>
+    </div>
+    <div class="px">
+      <div class="tpc">%</div>
+    </div>
+  </main>
 </body>
+
 </html>
