@@ -50,3 +50,29 @@ p {
 ![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/7e16355e-ef64-4cca-90cf-733aa5bea630)
 
 ---
+
+## <img width="40" height="40" src="https://img.icons8.com/external-others-iconmarket/40/external-colors-graphic-design-others-iconmarket-5.png" alt="colors"/> Ejercicio basicos:
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/b8a8e46f-daae-48db-ae01-a87de12ac82d)
+
+```css
+<style>
+    h1 {
+      background-color: #000;
+      color: #fff;
+      padding: 12px;
+      text-align: center;
+    }
+
+    u {
+      background-color: #ff0;
+    }
+
+    s {
+      color: #f00;
+      font-weight: 900;
+    }
+  </style>
+```
+
+---
