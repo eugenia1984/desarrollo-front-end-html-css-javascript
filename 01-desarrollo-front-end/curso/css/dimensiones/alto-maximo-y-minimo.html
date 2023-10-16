@@ -4,13 +4,35 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alto máximo y mínimo</title>
+  <style>
+    p {
+      width: 500px;
+      background-color: aquamarine;
+      margin: auto;
+      margin-bottom: 20px;
+    }
+
+    .p-1 {
+      /* Tiene efecto si el contenido es mas grande que la minima,
+      si es mas chico no se nota nada */
+      min-height: 250px;
+    }
+
+    .p-2 {
+      /*  si el contenido es mas alto hay desborde */
+      /* max-height anula la propiedad height si esta presente*/
+      max-height: 50px; 
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Alto máximo y mínimo</h1>
   </header>
   <main>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore dolorem ea dignissimos sequi mollitia excepturi saepe delectus laborum magni earum libero hic adipisci quibusdam ex corporis, culpa error modi est?</p>
+    <p class="p-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur debitis assumenda odit. Quis facere accusantium ipsam et itaque? Eligendi ea maiores officia ex accusantium numquam dolorum eaque excepturi? Ab, possimus.</p>
+    <p class="p-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur debitis assumenda odit. Quis facere accusantium ipsam et itaque? Eligendi ea maiores officia ex accusantium numquam dolorum eaque excepturi? Ab, possimus.</p>
   </main>
 </body>
 </html>
