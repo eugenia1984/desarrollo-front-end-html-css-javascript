@@ -256,9 +256,65 @@ Los **principales atributos** son...
 
 ... **competencia social**, la capacidad de relacionarse, empatizar, mantenerse activos, flexibles. Nos permite **empatizar**. Mantenerse **Activos**. La capacidad de ser **flexibles** y **adaptables** a los cambios. Nos permite integrarnos facilmente, encontrar respuestas positivas en lso otros y en poder hacer amigos y desarrollar relaciones con facilidad.
 
-... **capacidad para resolver problemas**, pueden pensar reflexivamente, con flexibilidad para encontrar soluciones a diferentes hechos de la vida. Pensar critica y libremente, con sus valores y modos de enfrentamiento, encontrando salidas a situaciones frustrantes y que no se den por vencidos. capacidad de **pensar positivamente**, **vitalidad** y **Seguridad**
+... **capacidad para resolver problemas**, pueden pensar reflexivamente, con flexibilidad para encontrar soluciones a diferentes hechos de la vida. Pensar critica y libremente, con sus valores y modos de enfrentamiento, encontrando salidas a situaciones frustrantes y que no se den por vencidos. capacidad de **pensar positivamente**, **vitalidad** y **seguridad interna**
 
-... **sentido de propósito y futuro**
+... **autonomía** tiene que ver con la **capacidad de independencia**, **capacidad de control** y **determinación personal**. Capacidad de ser uno mismo, contar con una identidad fuerte y definida, poder actuar independientemente.
+
+... **sentido de propósito y futuro**, con **sentido de autonomia**, **Sentido de autoestima** y **sentido de confianza propia**.
+
+---
+
+## Modelo de abordaje para identificar la resiliencia
+
+
+Modelo de Edith Grotberg -> expresiones para identificar la resiliencia: Yo tengo / Yo soy / Yo estoy / Yo puedo
+
+Ej.: 
+
+Yo tengo...
+
+"..personas alrededor en quienes confio y quienes me quieren incondicionalmente, y personas que me ayudan cuando estoy en peligro". -> confianza en si mismo, valorización propia, autopercepsión positiva.
+
+"...personas que me ponen limites, para evitar peligros o problemas"
+
+"...tengo modelos positivos"
+
+Yo soy...
+
+"...una persona por la que sienen aprecio y cariño"
+
+"...feliz cuando hago algo bueno para los demas"
+
+
+"... respetuoso de mi mismo y dle projimo"
+
+"...agradeble y comunicativo con mis seres queridos"
+
+
+Yo estoy...
+
+
+"...dispuesto a responsabilizarme de mis actos"
+
+"...seguro de que saldra bien"
+
+"...rodeado de compañeros que me aprecien"
+
+Yo puedo...
+
+"...hablar sobre cosas que me asustan o inquietan"
+
+"...buscr la manera de resolver los problemas"
+
+"... controlarme"
+
+"...hablar con alguien"
+
+"...sentir afecto y expresarlo"
+
+---
+
+No se nace con resiliencia; se contruye a partir de las relaciones que tenemos con nuestro entorno. Quienes cumplen el rol de padre o madre representan un papel fundamental para la formación de la personalidad.
 
 ---
 ---
