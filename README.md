@@ -8,12 +8,15 @@
 
 2. [La Resiliencia: un recurso potencial para tu crecimiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/02-resiliencia)
 
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0f745a55-4512-40db-b7c7-3edec0c7be5c)
+
+
 3. [5 Power Skills para mujers que lideran](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/03-power-skills)
 
 ---
 
 
-## <img width="40" height="40" src="https://img.icons8.com/emoji/40/laptop-emoji.png" alt="laptop"/> Tecnoloías
+## <img width="40" height="40" src="https://img.icons8.com/emoji/40/laptop-emoji.png" alt="laptop"/> Tecnologías
 
 
 - <img width="30" height="30" src="https://img.icons8.com/color/30/html-5--v1.png" alt="html5"/> HTML5
