@@ -1,8 +1,8 @@
-# La Resiliencia: un recurso potencial para tu crecimiento (Natacha Trobbiani)
+# <img width="48" height="48" src="https://img.icons8.com/color/48/clenched-fist-skin-type-5.png" alt="clenched-fist-skin-type-5"/> La Resiliencia: un recurso potencial para tu crecimiento (Natacha Trobbiani)
 
 ---
 
-## Lo que aprenderás
+## <img width="28" height="28" src="https://img.icons8.com/fluency/28/note.png" alt="note"/> Lo que aprenderás
 
 - Desarrollar herramientas efectivas para fortalecer la resiliencia en el enfrentamiento de situaciones adversas.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Descripción
+## <img width="28" height="28" src="https://img.icons8.com/color/28/book.png" alt="book"/> Descripción
 
 
 Probablemente si llegaste aquí , es porque quizás quieras aprender a desarrollar herramientas científicas  de salud mental para tu bienestar  y crecimiento personal, o  bien te encuentres en dificultades para manejar situaciones difíciles, lo que te afecta en relaciones importantes de tu vida social y en tu rendimiento laboral.
@@ -35,7 +35,7 @@ Es rico en teoría, práctico y de mucha utilidad para el desarrollo de tu salud
 
 ---
 
-## ¿Cómo se estructura el curso?
+## <img width="28" height="28" src="https://img.icons8.com/clouds/28/question-mark.png" alt="question-mark"/> ¿Cómo se estructura el curso?
 
 1. ¿Qué es la resiliencia?. Un enfoque integral y complementario de los factores que la fortalecen y ponen en riesgo.
 
@@ -49,7 +49,7 @@ Es rico en teoría, práctico y de mucha utilidad para el desarrollo de tu salud
 
 ---
 
-## ¿Qué obtendrás al tomar este curso?
+## <img width="28" height="28" src="https://img.icons8.com/doodle/28/question-mark--v1.png" alt="question-mark--v1"/> ¿Qué obtendrás al tomar este curso?
 
 2 horas 13 minutos de clases de video claras, dinámicas y específicas
 
@@ -62,7 +62,7 @@ Acceso al instructor para realizar preguntas específicas
 ---
 ---
 
-## SECCION 1: INTRODUCCION A LA NOCION DE RESILIENCIA Y A SU IMPORTANTCIA FUNDAMENTAL
+## <img width="48" height="48" src="https://img.icons8.com/color/48/clenched-fist-skin-type-5.png" alt="clenched-fist-skin-type-5"/>  SECCION 1: INTRODUCCION A LA NOCION DE RESILIENCIA Y A SU IMPORTANTCIA FUNDAMENTAL
 
 - Logros de resiliencia
 
@@ -127,7 +127,7 @@ Que se puede generar en todos los ámbitos y ciclos de la vida.
 ---
 ---
 
-## SECCION 2: LA RESILIENCIA: CARACTERISTICAS Y COMPONENTES DE LA RESILIENCIA
+## <img width="48" height="48" src="https://img.icons8.com/color/48/clenched-fist-skin-type-5.png" alt="clenched-fist-skin-type-5"/>  SECCION 2: LA RESILIENCIA: CARACTERISTICAS Y COMPONENTES DE LA RESILIENCIA
 
 ### ¿ Que no es la resiliencia?
 
@@ -238,7 +238,7 @@ Son universales porque todos atravesamos por ellas.
 ---
 ---
 
-## SECCION 3: LA PERSONALIDAD RESILIENTE
+## <img width="48" height="48" src="https://img.icons8.com/color/48/clenched-fist-skin-type-5.png" alt="clenched-fist-skin-type-5"/>   SECCION 3: LA PERSONALIDAD RESILIENTE
 
 **personalidad resiliente**...
 
@@ -344,7 +344,7 @@ Es un imposible.
 ---
 ---
 
-## SECCION 4: FUNCIONES FAMILIARES FAVORECEDORAS DE LA RESILIENCIA
+## <img width="48" height="48" src="https://img.icons8.com/color/48/clenched-fist-skin-type-5.png" alt="clenched-fist-skin-type-5"/>  SECCION 4: FUNCIONES FAMILIARES FAVORECEDORAS DE LA RESILIENCIA
 
 **apoyo afectivo** -> brindar afecto de manera segura -> un apego seguro ayuda a que la persona pueda construir confianza en sí misma
 
