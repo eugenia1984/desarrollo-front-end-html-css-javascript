@@ -1,4 +1,4 @@
-# La Resiliencia: un recurso potencial para tu crecimiento
+# La Resiliencia: un recurso potencial para tu crecimiento (Natacha Trobbiani)
 
 ---
 
@@ -64,11 +64,100 @@ Acceso al instructor para realizar preguntas específicas
 
 ## SECCION 1: INTRODUCCION A LA NOCION DE RESILIENCIA Y A SU IMPORTANTCIA FUNDAMENTAL
 
+- Logros de resiliencia
+
+-> más productividad
+
+-> más fortaleza 
+
+-> mejores habilidades de enfrentamiento
+
+-> mejores habilidades de resolucion
+
+- Cuando se supera la crisis, se logra:
+
+-> productividad
+
+-> seguridad
+
+-> confianza
+
+-> determinación
+
+- Las personas resilientes son:
+
+-> más activas y vitales
+
+-> más seguras de si mismas
+
+-> se cuidan más, porque se sienten valiosas
+
+-> se adaptan a los cambios
+
+-> son empáticas
+
+-> son comunicativas
+
+- Frente a un conflicto no se dejan llevar por sus emociones, porque piensan la situación, se regulan y toman una decisión conveniente.
+
+- Cuando se angustian lo reconocen y no desesperan, porque saben que cuentan con la capoacidad de superación. No pierden la esperanza, porque tienen una buen autoestima y seguridad interior.
+
+---
+
+## ¿Que es la resiliencia?
+
+Es la capacidad para superar una situación crítica pudiendo salir fortalecido de ella.
+
+Es un tejer la vida -> hacer frente a las adversidades transformando el dolor en fuerza motora para fortalecerse y salir de ellas
+
+La capacidad para hacer frente a las adversidades de la vida, superarlas y ser transformado positivamente por ellas.
+
+La eficacia de la resiliencia para estimular la calidad de vida
+
+Que las personas resilientes son más capaces que otras para hacer frente al estrés.
+
+Que la resiliencia reduce los índices emocionales negativos y aumenta la salud emocional
+
+Que todos (empleando ciertos recursos y ciertas condiciones) podemos desarrollarla.
+
+Que se puede generar en todos los ámbitos y ciclos de la vida.
+
+-> Meta fundamental: mejorar tu calidad de vida y la de tu entorno, incrementar tu productividad, ampliar tus habilidades de desarrollo 
 
 ---
 ---
 
 ## SECCION 2: LA RESILIENCIA: CARACTERISTICAS Y COMPONENTES DE LA RESILIENCIA
+
+### ¿ Que no es la resiliencia?
+
+- netamente heredada, sino que se contruye a traves de la relacion con quienes cumplen un rol efectivo importante en nuestra crianza y desarrollo (padre, madre, de valoración afectiva)
+
+-  mecanismo sobre-adaptativo, sino es desarrollar una capacidad de enfrentamiento y superacion a partir de un proceso de transformación personal.
+
+- regresión a un estado previo, sino que hay que aprovechar el logro de las nuevas capacidades de resolucion para favorecer el crecimiento personal
+
+ - solución mágica, sino supone un proceso de cambio interno particular de cada persona
+
+---
+
+La **resiliencia** es la capacidad para enfrentar la **adversidad**.
+
+Se logra con **recursos internos**(factores de la personalidad que **no** se heredan).
+
+El desarrollo o no de las capacidades, dependen de nuestras **relaciones**.
+
+**Todos** tenemos ese recurso.
+
+---
+
+## Los 3 componentes del proceso de Formacion de la Resiliencia
+
+- **CRISIS VITALES** a las que nos enfrenta lavida. Una situación o acontecimiento crítico, la persona debe atravesar una situación crítica y adquirir nuevos recursos. **Crisis imprevistas**: divorcio, desempleo, muerte. **Crisis del desarrollo**: adolescencia, despegue d elos padres, inicio de carrera.
+
+- **DEBILIDADES**
+  
+- **FORTALEZAS** o recursos de la persona para enfrentar la situación
 
 ---
 ---
