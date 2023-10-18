@@ -446,8 +446,40 @@ Quien presenta dificultades para regular sus emociones está teniendo dificultad
 
 ## Factor protector: FAVORECER EL DESARROLLO DE LA AUTONOMIA
 
+**autonomía** => difinición de la individualidad
+
+Buenas autonomia...
+
+... capacidad de independencia
+
+... capacidad de autocontrol
+
+... busqueda de logros propios
+
+apego seguro -> confianza propia -> autonomía 
+
+falta de confianza transmitida por los padres ->  disminución de la seguridad propia y de su autonomía
+
+el respeto a la diferencia -> favorece la autonomía
+
+---
+
+La autonomía se relaciona con la capacidad de autocontrol y de determinación personal
+
+Quien se piensa valioso, puede sentirse capaz y tomar decisiones con autonomía
+
+Si lso padres transmiten cofianza y seguridad, el hijo contará con mayores recursos para el logro de su autonomía
+
 ---
 
 ## Factor protector: RECONOCIMIENTO DE LA DIFERENCIA Y RESPETO DE LA INDIVIDUALIDAD
+
+Distinguir lo que es **propio** de lo del **otro**
+
+**respeto a la individualidad** -> se favorece el logro de la independencia y autonomia
+
+Se construye desde las experiencias tempranas de la infancia, cuando los padres pueden interpretar las necesidades de los hijos como difernetes de loa propias.
+
+Permite el desarrollo de la independencia, autonomia y de la identidad
 
 ---
