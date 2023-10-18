@@ -317,6 +317,31 @@ Yo puedo...
 No se nace con resiliencia; se contruye a partir de las relaciones que tenemos con nuestro entorno. Quienes cumplen el rol de padre o madre representan un papel fundamental para la formación de la personalidad.
 
 ---
+
+
+
+Los padres fomentan la resiliencia de sus hijos_
+
+Si le hacen saber con su conducta lo mucho que le quiere, el amor que le brindan es incondicional y no depende de que también haga algo que sus padres están y lo valoren como tal.
+
+También estimula su resiliencia cuando le ponen límites claros y acordes a su desarrollo, porque esto los ayuda a poder tolerar y postergar aquello que no se puede satisfacer.
+
+En definitiva, eso no ayudará a poder regular sus emociones por sí mismos y de ese modo adaptarse a las normas y a la vida social en general.
+
+Si sus padres les brindan estímulos y herramientas de aprendizaje, también están estimulando su resiliencia porque lo ayudan a desarrollar sus capacidades intelectuales y también a sentirse valiosos de tal ausencia que con sus avances, a ser más autónomo por sus logros alcanzados.
+
+Si brindan modelos sanos de referencia. Y en esto no es solo lo que dicen, sino lo que hacen. Y muchas veces aquí se refleja una contradicción. Es decir, lo que dicen no se corresponde con lo que hacen. Entonces esta contradicción genera confusión y lo que se quería transmitir como mensaje pierde. Por eso, cuando hablamos de modelos sanos estamos hablando de modelos claros, coherentes y no contradictorios.
+
+También debe reflejar madurez. Es decir, un padre o madre debe mostrar que puede controlar sus impulsos, soledad y frustraciones. Mostrar criterio, sensatez y responsabilidad en su conducta y también reflejar mentalidades, es decir, no verse abatidos por las situaciones difíciles.
+
+
+Entonces es fundamental valor tener en cuenta estas conductas y también en esto tener presente que no existen modelos perfectos. Si queremos ser perfectos, perderemos nuestra espontaneidad. Si queremos injustamente y nos frustramos a cada momento y tampoco esto será sano para ellos.
+
+-> Será de sumo valor revisar nuestro accionar para poder mejorar. Reconociendo en la vida siempre habrá fallas y pensemos que reconocer aquello que está y genera malestar es lo que nos permitirá seguir avanzando con la conciencia y la perfección. 
+Es un imposible.
+
+
+---
 ---
 
 ## SECCION 4: FUNCIONES FAMILIARES FAVORECEDORAS DE LA RESILIENCIA
