@@ -173,6 +173,32 @@ El desarrollo o no de las capacidades, dependen de nuestras **relaciones**.
 | Virginia | capacidad afectiva - capacidad de laboriocidad | apoyo de su hermana | personalidad depresiva - falta de confianza en si misma - estado de angustia al futuro | desempleada - falta de apoyo afectivo |
 
 ---
+
+## Las crisis de la vida y las conductas resilientes de enfrentamiento
+
+**crisis de la vida** -> acontecimiento que marca un cambio en la vida de la persona. Al principio hay sentimiento de desacomodo, pero al vencerlo se avanza.
+
+
+Tipos de crisis de la vida...
+
+... **evolutivas**, que ocurren en **cada etapa de la vida** (en cada etapa de la vida hay una crisis que resolver), son esperables, forman parte del desarrollo (infancia, adolescencia, adultez, vejez). Cuando las crisis se resuelven se gana un **logro evolutivo**. Si los logros quedan sin resolver, se acumulan las crisis y se genera un estancamiento. La **familia** depende mucho de resolver los logros. En una familia con **Factores positivos** las crisis a superar serán un estímulo para el crecimiento personal, las elecciones son sanas, con menos condicionamientos de miedos y frustaciones y guiada por los deseos y cuidados personales.
+
+... **accidentales**, no son universales, acontecimientos externos, imprevistos (un accidente, desempleo, divorcio), no es esperable, son más difíciles de enfrentar (uno no está reparado para el cambio) 
+
+---
+
+##  Factores que favorecen o perjudican la ganancia de la resiliencia
+
+
+---
+
+## Ejemplos de factores protectores y de riesgo en el desarrollo resiliente
+
+---
+
+## Ejes de aprendizaje de SECCION 2
+
+---
 ---
 
 ## SECCION 3: LA PERSONALIDAD RESILIENTE
