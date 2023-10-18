@@ -1,4 +1,4 @@
-# La Resiliencia: un recurso potencial para tu crecimeinto
+# La Resiliencia: un recurso potencial para tu crecimiento
 
 ---
 
