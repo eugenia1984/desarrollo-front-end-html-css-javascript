@@ -346,4 +346,42 @@ Es un imposible.
 
 ## SECCION 4: FUNCIONES FAMILIARES FAVORECEDORAS DE LA RESILIENCIA
 
+**apoyo afectivo** -> brindar afecto de manera segura -> un apego seguro ayuda a que la persona pueda construir confianza en sí misma
+
+---
+
+## Factor protector: AUTOESTIMA
+
+Representa el valor que uno se atribuye a sí mismo (la percepción del amor propio)
+
+Quien se siente valioso, no depende de que el otro lo valore para sentirse merecedor del amor.
+
+Construirá vínculos con aquellos que le brinden respeto y reconocimeinto.
+
+Se encuentra condicionada por las transmisiones que hemos recibido por parte de quien haya cuplido el rel de padre o madre.
+
+Si las valoraciones fueron positivas se incrementará la autoestima. Si fueron negativas serán factor de riesgo para que la autoestima se desarrolle favorablemente.
+
+---
+
+## Factor protector: MODELOS (O EJEMPLOS) POSITIVOS
+
+Ejemplos que los padres u otros adultos significativos, puedan brindar a sus hijos (todas aquellas conductas verbales, lo que se dice o bien no verbales, lo que se hace), tienen gran influencia a sus hijos.
+
+---
+
+## Factor protector: PUESTA DE LIMITES CLAROS Y EFECTIVOS
+
+---
+
+## Factor protector: TOLERANCIA A LA FRUSTRACIÓN Y A LA ANGUSTIA
+
+---
+
+## Factor protector: FAVORECER EL DESARROLLO DE LA AUTONOMIA
+
+---
+
+## Factor protector: RECONOCIMIENTO DE LA DIFERENCIA Y RESPETO DE LA INDIVIDUALIDAD
+
 ---
