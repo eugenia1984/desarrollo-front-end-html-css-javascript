@@ -368,9 +368,53 @@ Si las valoraciones fueron positivas se incrementará la autoestima. Si fueron n
 
 Ejemplos que los padres u otros adultos significativos, puedan brindar a sus hijos (todas aquellas conductas verbales, lo que se dice o bien no verbales, lo que se hace), tienen gran influencia a sus hijos.
 
+
+Un modelo resiliente debe ser sano, debe ser congruente mduro, cumplir su función adulta y brindar la contención afectiva necesaria.
+
 ---
 
 ## Factor protector: PUESTA DE LIMITES CLAROS Y EFECTIVOS
+
+**limites** -> las normas que todo individuo necesita incorporar mentalmente para poder adaptarse al entorno e integrarse socialmente.
+
+Un individuo no nace con los límites incorporados. Nace con puro instinto.
+
+No se nace con un gen de límites incorporados, sino que se los adquiere.
+
+¿Por qué a veces se transmiten límites pero no se incorporan adecuadamente? El niño no puede regularse emocionalmente como debería. Afecta a su: autoestima, autoconfianza y seguridad interna.
+
+¿Qué es un límite claro y efectivo? Los límites son claros y efectivos cuando se adecuan a las necesidades propias de cada etapa de crecimiento y ayudan al niño a integrarse a la sociedad y a regularse en sus instintos.
+
+¿Cuándo esos límites son claros y efectivos? Se adecuan a las necesidades propias de cada etapa de crecimiento y ayudan al niño a integrarse a la sociedad y a regularse en sus instintos. Si los límites no son claros, supongamos que se contradice lo que se dice y hace, el niño no puede encontrar una congruencia y esto no termina siendo un límite efectivo en su desarrollo.
+
+Para que el límite sea efectivo...
+
+...debe ser impartido por el adulto
+
+...on contradicciones entre ellos, ni en cada uno de ellos
+
+...debe ser adecuado a sus posibilidades y necesidades de desarrollo
+
+
+Si el límite es adecuado a su edad evolutiva y en su modo de transmisión el niño tendrá...
+
+...criterio de realidad
+
+...adaptación al entorno
+
+...regular su vida emocional
+
+...moderando sus impulsos
+
+Una persona con límites incorporados puede tolerar la frustración y la espera de una satisfacción.
+
+- Limites claros y efectivos son aquellos en donde no hay contradicción entre lo que se dice y lo que se hace y en donde no hay desautorización de un padre con otro.
+
+- Se incorpora cuando hay una relación efectiva con quien cumple un rol de autoridad de madre o padre, y que para que sean sanos deben además ser acordes al desarrollo. 
+
+- Deben ser acordes al desarrollo. Es decir, no se puede poner un límite de exigencia de responsabilidad adulta a un nio, ni tampoco  poner un límite que lo infantiliza como si fuera menor.
+
+- Permiten ganar en el logro del control emocional, tolerancia a la frustración y autonomía.
 
 ---
 
