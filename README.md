@@ -1,4 +1,4 @@
-# <img width="40" height="40" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-note-pad-user-interface-flatart-icons-flat-flatarticons.png" alt="note pad"/> Capacitaciones gratuitas para mujeres en tecnología
+# <img width="40" height="40" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-note-pad-user-interface-flatart-icons-flat-flatarticons.png" alt="note pad"/> Capacitaciones gratuitas para mujeres en tecnología de Cervecería Quilmes
 
 ## <img width="40" height="40" src="https://img.icons8.com/clouds/40/path.png" alt="path"/> Vía de aprendizaje: Desarrollo Web - Front End HTML & CSS
 
@@ -13,7 +13,7 @@
 ---
 
 
-## <img width="40" height="40" src="https://img.icons8.com/emoji/40/laptop-emoji.png" alt="laptop"/> Tecnologias
+## <img width="40" height="40" src="https://img.icons8.com/emoji/40/laptop-emoji.png" alt="laptop"/> Tecnoloías
 
 
 - <img width="30" height="30" src="https://img.icons8.com/color/30/html-5--v1.png" alt="html5"/> HTML5
