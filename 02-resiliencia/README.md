@@ -483,3 +483,5 @@ Se construye desde las experiencias tempranas de la infancia, cuando los padres 
 Permite el desarrollo de la independencia, autonomia y de la identidad
 
 ---
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/20b58499-e0d6-4aa9-88cb-102bc672716e)
