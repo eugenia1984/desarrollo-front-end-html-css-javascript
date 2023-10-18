@@ -153,11 +153,11 @@ El desarrollo o no de las capacidades, dependen de nuestras **relaciones**.
 
 ## Los 3 componentes del proceso de Formacion de la Resiliencia
 
-- **CRISIS VITALES** a las que nos enfrenta lavida. Una situación o acontecimiento crítico, la persona debe atravesar una situación crítica y adquirir nuevos recursos. **Crisis imprevistas**: divorcio, desempleo, muerte. **Crisis del desarrollo**: adolescencia, despegue d elos padres, inicio de carrera.
+- **CRISIS VITALES** a las que nos enfrenta lavida. Una situación o acontecimiento crítico, la persona debe atravesar una situación crítica y adquirir nuevos recursos. **Crisis imprevistas**: divorcio, desempleo, muerte. **Crisis del desarrollo**: adolescencia, despegue d elos padres, inicio de carrera, maternidad, paternidad, jubilacion.
 
-- **DEBILIDADES**
+- **DEBILIDADES** como condiciones de personalidad (poca valoracion de si mismo, dificultad para integrarse al grupo, falta de propositos personales, etc) ó características del entorno (fallas en comunicacion familiar, falta de integracion social, etc)
   
-- **FORTALEZAS** o recursos de la persona para enfrentar la situación
+- **FORTALEZAS** o recursos de la persona para enfrentar la situación (buena valoración de si mismo, estabilidad emocional, facilidad para relacionarse, proyecto de vida, beuna comunicacion con su familia, oportunidades de desarrollo)
 
 ---
 ---
