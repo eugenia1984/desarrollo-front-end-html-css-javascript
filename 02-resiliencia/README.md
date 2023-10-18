@@ -208,11 +208,6 @@ Cuantos + factores protectores + capacidad de enfrentamiento.
 
 ---
 
-## Ejes de aprendizaje de SECCION 2
-
----
----
-
 ## PRIMER EXAMEN
 
 1. ¿Qué es la resiliencia?
@@ -244,6 +239,26 @@ Son universales porque todos atravesamos por ellas.
 ---
 
 ## SECCION 3: LA PERSONALIDAD RESILIENTE
+
+**personalidad resiliente**...
+
+... capacidad para regular las emociones
+
+... capacidad para relacionarse
+
+... buena autoestima
+
+... autonomía
+
+... sentido de propósito
+
+Los **principales atributos** son...
+
+... **competencia social**, la capacidad de relacionarse, empatizar, mantenerse activos, flexibles. Nos permite **empatizar**. Mantenerse **Activos**. La capacidad de ser **flexibles** y **adaptables** a los cambios. Nos permite integrarnos facilmente, encontrar respuestas positivas en lso otros y en poder hacer amigos y desarrollar relaciones con facilidad.
+
+... **capacidad para resolver problemas**, pueden pensar reflexivamente, con flexibilidad para encontrar soluciones a diferentes hechos de la vida. Pensar critica y libremente, con sus valores y modos de enfrentamiento, encontrando salidas a situaciones frustrantes y que no se den por vencidos. capacidad de **pensar positivamente**, **vitalidad** y **Seguridad**
+
+... **sentido de propósito y futuro**
 
 ---
 ---
