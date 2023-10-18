@@ -213,6 +213,36 @@ Cuantos + factores protectores + capacidad de enfrentamiento.
 ---
 ---
 
+## PRIMER EXAMEN
+
+1. ¿Qué es la resiliencia?
+
+Capacidad para enfrentar la adversidad
+
+Es la capacidad que se logra a partir del desarrollo de ciertos recursos internos facilitados por medio familiar saludable
+
+2. ¿Cuáles son los componentes que forman parte de ese proceso de formación de la Resiliencia?
+
+Las crisis a las que nos enfrenta la vida
+
+Las condiciones de debilidad, que dificultan el enfrentamiento del hecho crítico.
+
+Las fortalezas o recursos que presenta la persona, para enfrentar la situación.
+
+
+3. Cuales son las crisis de la vida?
+
+Son las de desarrollo o evolutivas y las accidentales
+
+4. ¿Cuáles son las crisis de desarrollo?
+
+Forman parte de las etapas del desarrollo humano en donde hay crisis evolutivas a resolver.
+
+Son universales porque todos atravesamos por ellas.
+
+---
+---
+
 ## SECCION 3: LA PERSONALIDAD RESILIENTE
 
 ---
