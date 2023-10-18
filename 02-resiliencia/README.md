@@ -189,10 +189,22 @@ Tipos de crisis de la vida...
 
 ##  Factores que favorecen o perjudican la ganancia de la resiliencia
 
+- Factores que favorecen la ganancia de la resiliencia -> **factores protectores** internos (propios de la personalidad, ej: buena autoestima o valoracion propia, capacidad de control emocional, optimismo, sentido de proposito) y externos (entorno, ej: apollo afectivo, inclusión social/laboral/ecucativa)
+
+
+- Factores que perjudican la ganancia de la resiliencia -> **factores de riesgo** internos (propios de la personalidad, ej: baja autoestima, pobre confianza en si mismo, poco apollo familiar) y externos (entorno)
+
+Cuantos + factores protectores + capacidad de enfrentamiento.
 
 ---
 
 ## Ejemplos de factores protectores y de riesgo en el desarrollo resiliente
+
+**Factores protectores** -> favorecen positivamente el desarrollo
+
+**Factores de riesgo** -> perjudican el desarrollo
+
+**persona resiliente** -> personas que al estar expuesta a una situacion de adversidad, utilizan factores protectores para sobreponerse a ella, crecer y desarrollarse. No e suna capacidad estática, varía a traves del tiempo.
 
 ---
 
