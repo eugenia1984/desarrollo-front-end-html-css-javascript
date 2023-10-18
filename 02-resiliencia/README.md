@@ -160,6 +160,19 @@ El desarrollo o no de las capacidades, dependen de nuestras **relaciones**.
 - **FORTALEZAS** o recursos de la persona para enfrentar la situación (buena valoración de si mismo, estabilidad emocional, facilidad para relacionarse, proyecto de vida, beuna comunicacion con su familia, oportunidades de desarrollo)
 
 ---
+
+## Identificando los factores protectores y de riesgo de la resiliencia
+
+**recursos** internos y esternos => **factores protectores**(porque es todo aquello que nos protege de una situación crítica) internos(caracterírticas de la personalidad) o externos(características del medio).
+
+**condiciones** de vulnerabilidad => **factores de riesgo**(porque es todo aquell oque pone en riesgo o en peligro nuestra capacidad de resiliencia)
+
+| - | Factor Protector Interno | Factor Protector Externo | Factor de reisgo Interno | Factor de riesgo Externo |
+| - | ------------------------ | ------------------------ | ------------------------ | ------------------------- |
+| Ana | proactiva - segura de si misma - sociable - optimista - capacidades academicas | apoyo familiar y social | | |
+| Virginia | capacidad afectiva - capacidad de laboriocidad | apoyo de su hermana | personalidad depresiva - falta de confianza en si misma - estado de angustia al futuro | desempleada - falta de apoyo afectivo |
+
+---
 ---
 
 ## SECCION 3: LA PERSONALIDAD RESILIENTE
