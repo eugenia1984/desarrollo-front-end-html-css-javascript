@@ -420,6 +420,28 @@ Una persona con límites incorporados puede tolerar la frustración y la espera 
 
 ## Factor protector: TOLERANCIA A LA FRUSTRACIÓN Y A LA ANGUSTIA
 
+Tolerar la angustia y la frustración es la capacidad que se tiene para regular las emociones tras el enfrentamiento de alguna situación indesable.
+
+Si un hecho resulta frustrante, tolerar la frustración y la angustia significa poder mantenerse controlado para poder pensar con claridad, sin dejar que las emociones nos pongan.
+
+Se relaciona con la capacidad de incorporar límites. Si alguien puede incorporar adecuadamente los límites, podrá tolerar con más facilidad una situación de frustración.
+
+Podrás sentir angustias por la frustración vivida, pero será una sensación que podrá controlar emocionalemnte.
+
+Falta de límites -> mayor dificultad para regularse emocionalmente
+
+El límite para ser efectivo debe ser sostenido con congruencia.
+
+Cuando los límites se incorporan adecuadamente, el niño podrá...
+
+...adaptarse a las reglas
+
+...tolerar con menor dificultad la frustración o espera
+
+...rebelarse sanamaente
+
+Quien presenta dificultades para regular sus emociones está teniendo dificultades para tolerar los límites y pensar la situación que lo aqueja.
+
 ---
 
 ## Factor protector: FAVORECER EL DESARROLLO DE LA AUTONOMIA
