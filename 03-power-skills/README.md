@@ -36,3 +36,79 @@ Este curso es para todas las personas que quieran crear espacios más diversos, 
 
 ---
 ---
+
+**sindrome del impostor** -> sentimiento/sensación de que no soy lo suficientemente buena, no merezco lo que está pasando, de que no me gané lo que sucede.
+
+Signos...
+
+... nos cuesta aceptar nuestros logros.
+
+... tener miedo a que se den cuenta de que "no soy lo suficientemente buena".
+
+... evitar el feedback.
+
+... tener miedo a pedir ayuda.
+
+... rechazar nuevas oportunidades y dudar de nuestras decisiones.
+
+
+Acciones:
+
+- crear entornos de trabajo en los que haya seguridad psicológica(se puede hablar sin miedo, estar cómodos, decir lo que se piensa, lo que se siente).
+
+- reconocer y celebrar los logros
+
+- utilizar el feedback como uan herramienta de desarrollo
+
+- trabajar en crear y sostener una cultura de diversidad, equidad e inclusión laboral
+
+---
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> Los sesgos inconscientes en el trabajo
+
+**sesgos inconcientes** -> suposiciones, creencias o actitudes que nos limitan a nosotros y a la forma en la que percibimos y nos relacionamos con el mundo. No se limitan solo al sexo de la persona, interseccionalidad (mujer, latina, etc).
+
+Reconocer que los sesgos existen -> Actuar para gestionarlos
+
+Darle siempre el **beneficio de la duda** a la gente
+
+-> **sesgo de afinidad**, un hombre es asertivo y la mujer es agradable, nos acercamos a gente similar a nosotros
+
+-> **sesgo de desempeño**, las mujeres son contratadas por sus logros(por lo que hizo) y los hombres por su pontencial (por lo que puede hacer). Cambiar el nombre de femenino a masculino aumentan en un 60% las posibilidades. Influye en el proceso de busqueda de empleo y en la prueba de desempeño.
+
+-> **sesgo de atribución** se cree que la mujer es menos competente, se deja llevar por las emociones.
+
+---
+---
+
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> POWER SKILL 1 - INNOVACIÓN
+
+
+
+---
+---
+
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> POWER SKILL 2 - RESILIENCIA
+
+---
+---
+
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> POWER SKILL 3 - PODER E INFLUENCIA 
+
+---
+---
+
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> POWER SKILL 4 - RELACIONES INTERPERSONALES (NETWORKING Y SPONSORSHIP)
+
+---
+---
+
+
+## <img width="26" height="26" src="https://img.icons8.com/office/26/lightning-bolt.png" alt="lightning-bolt"/> POWER SKILL 5 - NEGOCIACIÓN. LAS GRANDES LIDERES, NEGOCIAN
+
+---
+---
