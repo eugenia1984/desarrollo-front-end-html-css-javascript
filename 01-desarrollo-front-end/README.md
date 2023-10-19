@@ -26,7 +26,9 @@ Los cursos de este curso son:
 
 - [Margenes y rellenos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/margenes-y-rellenos)
   
-- [Bordes y contorno](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascbordes-y-contorno)
+- [Bordes y contorno](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/curso/ejercicios/ejercicios-basicos/bordes-y-contorno)
+
+- [Visibilidad y Desbordamiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/curso/ejercicios/ejercicios-basicos/bvisibilidad-desbordamiento)
 
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
