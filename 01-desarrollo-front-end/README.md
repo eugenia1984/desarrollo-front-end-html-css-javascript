@@ -24,11 +24,11 @@ Los cursos de este curso son:
 
 - [Dimensiones](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/teoria/dimensiones.md)
 
-- [Margenes y rellenos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/blob/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/margenes-y-rellenos)
+- [Margenes y rellenos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/margenes-y-rellenos)
   
-- [Bordes y contorno](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/curso/ejercicios/ejercicios-basicos/bordes-y-contorno)
+- [Bordes y contorno](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/bordes-y-contorno)
 
-- [Visibilidad y Desbordamiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/curso/ejercicios/ejercicios-basicos/bvisibilidad-desbordamiento)
+- [Visibilidad y Desbordamiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/visibilidad-desbordamiento)
 
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
