@@ -4,13 +4,121 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Estilo ancho y Color del contorno</title>
+  <style>
+    /* El contorno se dibuja fuera del borde del elemento
+    Y puede superponerse a otro contenido.
+    No forma parte de las dimensiones del elemento.
+    Se aplica a todos los costaods por igual, no se puede aplicar
+    por top, left, bottom o right*/
+    p {
+      width: 250px;
+      background-color: dodgerblue;
+      padding: 10px;
+      margin: 10px;
+    }
+
+    .p1 {
+      border-style: solid;
+      border-width: thin;
+      border-color: blue;
+      outline-style: solid;
+      outline-width: thin;
+      outline-color: red;
+    }
+
+    .p2 {
+      border-style: dotted;
+      border-width: medium;
+      border-color: blueviolet;
+      outline-style: dotted;
+      outline-width: medium;
+      outline-color: red;
+    }
+
+    .p3 {
+      border-style: dashed;
+      border-width: thick;
+      border-color: skyblue;
+      outline-style: dashed;
+      outline-width: thick;
+      outline-color: red;
+    }
+
+    .p4 {
+      border-style: double;
+      border-width: 10px;
+      border-color: #fff;
+      outline-style: double;
+      outline-width: 10px;
+      outline-color: red;
+    }
+
+    .p5 {
+      border-style: groove;
+      border-width: 10px;
+      border-color: #000;
+      outline-style: groove;
+      outline-width: 10px;
+      outline-color: red;
+    }
+
+    .p6 {
+      border-style: ridge;
+      border-width: 2vw;
+      border-color: rgba(255, 0, 0.5);
+      outline-style: ridge;
+      outline-width: 2vw;
+      outline-color: red;
+    }
+
+    .p7 {
+      border-style: inset;
+      border-width: 2vh;
+      border-color: rgba(0,255,0.25);
+      outline-style: inset;
+      outline-width: 2vh;
+      outline-color: red;
+    }
+
+    .p8 {
+      border-style: outset;
+      border-width: .2in;
+      border-color: rgba(0,0,255);
+      outline-style: outset;
+      outline-width: .2in;
+      outline-color: red;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Estilo ancho y Color del contorno</h1>
   </header>
   <main>
-    
+    <p class="p1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p7">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
+    <p class="p8">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate iure sit officiis id? Veniam
+      similique voluptatum nulla enim magnam libero iste expedita vero quaerat reprehenderit, aliquam exercitationem,
+      nihil autem fugit.</p>
   </main>
 </body>
 </html>
