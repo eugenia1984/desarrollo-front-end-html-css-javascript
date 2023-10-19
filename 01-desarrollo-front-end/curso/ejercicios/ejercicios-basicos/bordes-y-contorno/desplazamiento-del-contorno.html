@@ -3,14 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Desplazamiento dle contorno</title>
+  <title>Desplazamiento del contorno</title>
+  <style>
+    P {
+      background-color: dodgerblue;
+      padding: 10px;
+      margin-bottom: 50px;
+      outline: solid 5px red;
+    }
+
+    #p1 {
+      outline-offset: 5px;
+    }
+    #p2 {
+      outline-offset: 20px;
+    }
+  </style>
 </head>
 <body>
   <header>
-    <h1>Desplazamiento dle contorno</h1>
+    <h1>Desplazamiento del contorno</h1>
   </header>
   <main>
-    
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est obcaecati suscipit nostrum sed, perspiciatis quae vel? Quam veniam doloremque magni iure dignissimos, assumenda ut tempora modi consectetur, laborum quisquam officia!</p>
+    <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. In animi adipisci nulla numquam obcaecati deserunt, placeat at nihil a. Recusandae accusantium, ipsa mollitia ratione similique atque ut quas accusamus ipsum!</p>
+    <p id="p2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto quis laboriosam esse quo hic aut beatae veritatis explicabo, voluptates accusamus corrupti reprehenderit nam? Aliquam obcaecati illo, necessitatibus aut vitae odio!</p>
   </main>
 </body>
 </html>
