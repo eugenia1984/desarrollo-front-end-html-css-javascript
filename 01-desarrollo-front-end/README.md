@@ -30,6 +30,7 @@ Los cursos de este curso son:
 
 - [Visibilidad y Desbordamiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/ejercicios-basicos/visibilidad-desbordamiento)
 
+- [Variables, Colores y Estilo general](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/estilos)
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
 - Un curso para ser mas eficiente con CSS a través de **LESS**.
