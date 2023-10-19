@@ -1,0 +1,13 @@
+/* Las variables locales, siempre dentro de :root y se nombran --nombre*/
+:root {
+  --negro: #000;
+  --blanco: #fff;
+  --gris: #aaa;
+  --gris-claro: #eee;
+  --gris-oscuro: #444;
+  --rojo: #e03a3e;
+  --azul: #26ade4;
+  --verde: #02ac64;
+}
+
+/* para usarlas: var(--nombre-de-la-variable)*/

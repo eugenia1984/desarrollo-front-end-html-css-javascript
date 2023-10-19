@@ -1,0 +1,46 @@
+/* -------------------------------------------- */
+/*               COLOR DEL TEXTO                */
+/* -------------------------------------------- */
+.t-b { color: var(--blanco); }
+.t-n { color: var(--negro); }
+.t-g { color: var(--gris); }
+.t-go { color: var(--gris-oscuro); }
+ 
+/* -------------------------------------------- */
+/*                COLOR DEL FONDO               */
+/* -------------------------------------------- */
+.f-b { background-color: var(--blanco); }
+.f-gb { background-color: var(--gris-blanco); }
+.f-g { background-color: var(--gris); }
+.f-go { background-color: var(--gris-oscuro); }
+.f-v { background-color: var(--verde); }
+.f-a { background-color: var(--azul); }
+.f-r { background-color: var(--rojo); }
+ 
+/* -------------------------------------------- */
+/*           COLOR DEL FONDO Y EL TEXTO         */
+/* -------------------------------------------- */
+.est-1 {    
+  background-color: var(--gris-claro);
+  color: var(--gris-oscuro); 
+}
+.est-2 {
+  background-color: var(--gris-oscuro);
+  color: var(--gris-claro);        
+}
+.est-3 {
+  background-color: var(--gris);
+  color: var(--gris-claro);  
+}
+.est-4 {
+  background-color: var(--verde);
+  color: var(--blanco);  
+}
+.est-5 {
+  background-color: var(--azul);
+  color: var(--blanco);  
+}
+.est-6 {
+  background-color: var(--rojo);
+  color: var(--blanco);  
+}
