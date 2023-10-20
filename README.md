@@ -8,10 +8,13 @@
 
 2. [La Resiliencia: un recurso potencial para tu crecimiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/02-resiliencia)
 
-![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0f745a55-4512-40db-b7c7-3edec0c7be5c)
+![La Resiliencia: un recurso potencial para tu crecimiento - certificado](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0f745a55-4512-40db-b7c7-3edec0c7be5c)
 
 
 3. [5 Power Skills para mujers que lideran](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/03-power-skills)
+
+![[5 Power Skills para mujers que lideran - certificado](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/8941d4b4-8ff6-4832-8e2b-356a54a5f2be)
+
 
 ---
 
