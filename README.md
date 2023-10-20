@@ -13,7 +13,7 @@
 
 3. [5 Power Skills para mujers que lideran](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/03-power-skills)
 
-![[5 Power Skills para mujers que lideran - certificado](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/8941d4b4-8ff6-4832-8e2b-356a54a5f2be)
+![5 Power Skills para mujers que lideran - certificado](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/8941d4b4-8ff6-4832-8e2b-356a54a5f2be)
 
 
 ---
