@@ -391,9 +391,13 @@ Nunca aprenderá lo que es importante para la otra parte y abordará de manera e
 
 
 ---
----
+
 
 
 catalyst.org
+
+---
+
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/1edf4561-7dab-4433-a87e-2bed2b496b83)
 
 ---
