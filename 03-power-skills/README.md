@@ -58,7 +58,7 @@ Acciones:
 
 - reconocer y celebrar los logros
 
-- utilizar el feedback como uan herramienta de desarrollo
+- utilizar el feedback como una herramienta de desarrollo
 
 - trabajar en crear y sostener una cultura de diversidad, equidad e inclusión laboral
 
