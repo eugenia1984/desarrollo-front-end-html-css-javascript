@@ -10,6 +10,7 @@
 /*                COLOR DEL FONDO               */
 /* -------------------------------------------- */
 .f-b { background-color: var(--blanco); }
+.f-n { background-color: var(--negro); }
 .f-gb { background-color: var(--gris-blanco); }
 .f-g { background-color: var(--gris); }
 .f-go { background-color: var(--gris-oscuro); }

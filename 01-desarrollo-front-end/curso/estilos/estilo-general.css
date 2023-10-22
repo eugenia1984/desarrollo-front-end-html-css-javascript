@@ -1,17 +1,17 @@
-
-@import url('variables.css') 
-/* para importar estilos de otros archivos */ 
-
-/* -------------------------------------------- */
-/*                    GENERAL                   */
-/* -------------------------------------------- */
-html,
-body {
+@import url('variables.css') /* para importar estilos de otros archivos */
+    /* -------------------------------------------- */
+    /*                    GENERAL                   */
+    /* -------------------------------------------- */ html,
+  body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
 
+.ct {
+  text-align: center;
+  padding: 20px 0;
+}
 /* -------------------------------------------- */
 /*                    DIMENSIONES               */
 /* -------------------------------------------- */
@@ -123,6 +123,12 @@ body {
 /* -------------------------------------------- */
 /*                 MARGENES                     */
 /* -------------------------------------------- */
+.ma {
+  margin: auto;
+}
+.m-0 {
+  margin: 0px;
+}
 .m-10 {
   margin: 10px;
 }
