@@ -4,6 +4,8 @@ El tema principal son los libros
 
 Tienes que crear algo parecido a lo del ejemplo pero con tu propio estilo:
 
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/3783f8bd-c857-4cd6-a4db-0f5c4beaad18)
+
 
 ---
 
