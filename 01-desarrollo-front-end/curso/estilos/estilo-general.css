@@ -148,3 +148,19 @@ body {
 .b-go {
   border: 1px solid var(--gris-oscuro);
 }
+
+/***********************/
+/*               FONDO */
+/***********************/
+.f-g {
+  background-color: gray;
+}
+.f-v {
+  background-color: green;
+}
+.f-r {
+  background-color: red;
+}
+.f-b {
+  background-color: blue;
+}
