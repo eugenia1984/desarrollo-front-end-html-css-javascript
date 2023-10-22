@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Posicionar y flotar</title>
+  <style>
+    .ejercicio1 .container {
+      width: 500px;
+      height: 300px;
+      background-color: gray;
+    }
+
+    .izq {
+      float: left;
+    }
+
+    .der {
+      float: right;
+    }
+
+    .izq,
+    .der {
+      width: 200px;
+      padding: 10px;
+      background-color: white;
+      color: gray;
+      border: 2px solid gray;
+    }
+
+    .ejercicio2 div {
+      width: 500px;
+      background-color: tomato;
+      padding: 12px;
+    }
+
+    .ejercicio2 div p {
+      width: 80%;
+      margin: 12px auto;
+      background-color: white;
+      border: 3px solid red;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .ejercicio3 div {
+      width: 150px;
+      height: 150px;
+    }
+
+    #div-1 {
+      background-color: slateblue;
+      color: white;
+      position: absolute;
+      top: 750px;
+      left: 5px;
+    }
+
+    #div-2 {
+      background-color: dodgerblue;
+      color: white;
+      position: absolute;
+      top: 810px;
+      left: 75px;
+      opacity: .75;
+    }
+
+    #div-3 {
+      background-color: tomato;
+      color: white;
+      position: absolute;
+      top: 910px;
+      left: 150px;
+      opacity: .5;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Posicionar y flotar</h1>
+  </header>
+  <main>
+    <section class="ejercicio1">
+      <h2>Ejercicio 1</h2>
+      <div class="container">
+        <div>
+          <p class="izq">Las dimensiones del elemento div que contiene a estos dos parrafos es de 500 por 300 pixeles.
+            El primer parrafo tiene una clase llamada izq y el segundo der, el primero flota a la izquierda y la segunda
+            flota a la derecha</p>
+        </div>
+        <div>
+          <p class="der">Ambos elementos de parrafo tienen unas dimensiones de 200px de ancho y un relleno de 10px en
+            todos los costados, un color de fondo blanco y un color de texto gris, además de un borde de un pixel tambien gris</p>
+        </div>
+      </div>
+    </section>
+    <section class="ejercicio2">
+      <h2>Ejercicio 2</h2>
+      <div>
+        <p>Texto y Elemento centrado</p>
+        <p>Este div de 500px en color tomato contiene dos parrafos del 80% de ancho centrados con bordes de color rojo,
+          el texto también está centrado. Los másgenes y rellenos tendrás que hacerlos a ojo.</p>
+      </div>
+    </section>
+    <section class="ejercicio3">
+      <h2>Ejercicio 3</h2>
+      <div id="div-1">150x150px color SlateBlue con posicion absoluta 5px desde la izquierda</div>
+      <div id="div-2">150x150px color dodgerblue con posicion absoluta 75px desde arriba y a la izquierda con opacidad
+        .75</div>
+      <div id="div-3">150x150px color tomato con posicion absoluta 150px desde arriba y a la izquierda con opacidad .5
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>
