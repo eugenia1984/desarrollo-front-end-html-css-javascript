@@ -34,7 +34,9 @@ Los cursos de este curso son:
 
 - [Posicionar y flotar](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/css/posicionar-y-flotar)
 
-- Listas
+- [Listas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/listas)
+
+- [Imagenes](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/imagenes)
   
 - Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
 
