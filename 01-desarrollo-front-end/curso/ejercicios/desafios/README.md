@@ -14,6 +14,8 @@ Ejercicios complejos que se encuentran en algunas secciones.
 
 1. [Temas peliculas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/desafios/temas-peliculas)
 
-2. Tema libros
+2. [Tema libros](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/desafios/tema-libros)
 
-3. Tema música
+3. [Tema música](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/desafios/tema-musica)
+
+---
