@@ -1,14 +1,119 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Estilos de lista</title>
+  <link rel="stylesheet" href="../../estilos/estilo-general.css">
+  <style>
+    #tipo1 {
+      list-style-type: circle;
+    }
+
+    #tipo2 {
+      list-style-type: disc;
+    }
+
+    #tipo3 {
+      list-style-type: square;
+    }
+
+    #tipo4 {
+      list-style-type: decimal;
+    }
+
+    #tipo5 {
+      list-style-type: decimal-leading-zero;
+    }
+
+    #tipo6 {
+      list-style-type: lower-latin;
+    }
+
+    #tipo7 {
+      list-style-type: upper-latin;
+    }
+
+    #tipo8 {
+      list-style-type: lower-roman;
+    }
+
+    #tipo9 {
+      list-style-type: upper-roman;
+    }
+
+    #tipo10 {
+      list-style-image: url('ok.png');
+    }
+
+    #tipo11 {
+      list-style-type: none;
+    }
+  </style>
 </head>
+
 <body>
   <header>
     <h1>Estilos de lista</h1>
   </header>
-  <main></main>
+  <main>
+    <ul class="lista est-3" id="tipo1">
+      <li class="li est-2">Elemento de lista 1</li>
+      <li class="li est-2">Elemento de lista 2</li>
+      <li class="li est-2">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-5" id="tipo2">
+      <li class="li est-1 li-in">Elemento de lista 1</li>
+      <li class="li est-1 li-in">Elemento de lista 2</li>
+      <li class="li est-1 li-in">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-3" id="tipo3">
+      <li class="li est-2">Elemento de lista 1</li>
+      <li class="li est-2">Elemento de lista 2</li>
+      <li class="li est-2">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-4" id="tipo4">
+      <li class="li li-1">Elemento de lista 1</li>
+      <li class="li li-1">Elemento de lista 2</li>
+      <li class="li li-1">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-4" id="tipo5">
+      <li class="li li-3">Elemento de lista 1</li>
+      <li class="li li-3">Elemento de lista 2</li>
+      <li class="li li-3">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-4" id="tipo6">
+      <li class="li li-2 est-1">Elemento de lista 1</li>
+      <li class="li li-2 est-1">Elemento de lista 2</li>
+      <li class="li li-2 est-1">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-4" id="tipo7">
+      <li class="li">Elemento de lista 1</li>
+      <li class="li">Elemento de lista 2</li>
+      <li class="li">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista" id="tipo8">
+      <li class="li li-4 est-1">Elemento de lista 1</li>
+      <li class="li li-4 est-1">Elemento de lista 2</li>
+      <li class="li li-4 est-1">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-5" id="tipo9">
+      <li class="li li-7 est-2">Elemento de lista 1</li>
+      <li class="li li-7 est-2">Elemento de lista 2</li>
+      <li class="li li-7 est-2">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-5" id="tipo10">
+      <li class="li li-1 est-1 li-in">Elemento de lista 1</li>
+      <li class="li li-1 est-1 li-in">Elemento de lista 2</li>
+      <li class="li li-1 est-1 li-in">Elemento de lista 3</li>
+    </ul>
+    <ul class="lista est-5" id="tipo11">
+      <li class="li li-6 est-1 li-in">Elemento de lista 1</li>
+      <li class="li li-6 est-1 li-in">Elemento de lista 2</li>
+      <li class="li li-6 est-1 li-in">Elemento de lista 3</li>
+    </ul>
+  </main>
 </body>
+
 </html>

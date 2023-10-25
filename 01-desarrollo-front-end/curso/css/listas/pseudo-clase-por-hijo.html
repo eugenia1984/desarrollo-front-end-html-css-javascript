@@ -1,14 +1,69 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pseudo clase por hijo</title>
+  <style>
+    div {
+      width: 500px;
+      padding: 20px;
+      background-color: gray;
+      border: 2px solid black;
+    }
+
+    li {
+      padding: 5px;
+    }
+
+    li:first-child {
+      color: red;
+    }
+
+    li:last-child {
+      color: darkred;
+    }
+
+    li:only-child {
+      color: orange;
+    }
+
+    li:nth-child(2) {
+      color: yellow;
+    }
+
+    li:nth-last-child(2) {
+      color: yellowgreen;
+    }
+  </style>
 </head>
+
 <body>
   <header>
     <h1>Pseudo clase por hijo</h1>
   </header>
-  <main></main>
+  <main>
+    <div>
+      <ol>
+        <li>Elemento de lista</li>
+        <li>Elemento de lista</li>
+        <li>Elemento de lista</li>
+        <ol>
+          <li>Elemento anidado</li>
+          <li>Elemento anidado</li>
+          <li>Elemento anidado</li>
+          <li>Elemento anidado</li>
+        </ol>
+        <li>Elemento de lista</li>
+        <li>Elemento de lista</li>
+        <li>Elemento de lista</li>
+        <ol>
+          <li>Primer, último y único elemento anidado</li>
+        </ol>
+      </ol>
+    </div>
+  </main>
 </body>
+
 </html>
