@@ -13,3 +13,7 @@ Ejercicios complejos que se encuentran en algunas secciones.
 ## Desafíos:
 
 1. [Temas peliculas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/ejercicios/desafios/temas-peliculas)
+
+2. Tema libros
+
+3. Tema música
