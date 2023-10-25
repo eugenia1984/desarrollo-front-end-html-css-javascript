@@ -4,6 +4,7 @@ El tema principal es la música
 
 Tienes que crear algo parecido a lo del ejemplo pero con tu propio estilo:
 
+![image](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/b7ed7d1b-96ff-4d0a-828d-03196904bf72)
 
 ---
 
