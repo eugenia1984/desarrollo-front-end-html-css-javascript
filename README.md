@@ -6,6 +6,9 @@
 
 1. [Desarrollo Front End: <img width="30" height="30" src="https://img.icons8.com/color/30/html-5--v1.png" alt="html5"/> HTML5, <img width="30" height="30" src="https://img.icons8.com/color/30/css3.png" alt="css3"/> CSS3 y <img width="30" height="30" src="https://img.icons8.com/color/30/javascript--v1.png" alt="javascript"/> JavaScript](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end)
 
+
+:tv: -> [Se puede ver deployado en: https://eugenia1984.github.io/desarrollo-front-end-html-css-javascript/](https://eugenia1984.github.io/desarrollo-front-end-html-css-javascript/)
+
 2. [La Resiliencia: un recurso potencial para tu crecimiento](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/02-resiliencia)
 
 ![La Resiliencia: un recurso potencial para tu crecimiento - certificado](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/assets/72580574/0f745a55-4512-40db-b7c7-3edec0c7be5c)
