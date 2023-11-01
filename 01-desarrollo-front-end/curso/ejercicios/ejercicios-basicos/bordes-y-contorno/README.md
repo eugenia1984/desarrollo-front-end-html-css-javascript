@@ -1,1 +1,1 @@
-# Ejercicios de margenes y contornos
+# Ejercicios de bordes y contornos
