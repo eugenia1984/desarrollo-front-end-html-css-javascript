@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tabla</title>
+	<link rel="shortcut icon" href="https://img.icons8.com/fluency/32/table-1.png" type="image/png">
+	<style>
+		table {
+			margin: 10px;
+			border: 1px solid black;
+			float: left;
+			background-color: dodgerblue;
+		}
+
+		th,
+		td {
+			width: 50px;
+			height: 50px;
+			text-align: center;
+			background-color: #eee;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>Tabla</h1>
+	</header>
+	<table>
+		<tr>
+			<th colspan="4">Columnas unidas</th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<table>
+		<tr>
+			<th></th>
+			<th colspan="2">Columnas unidas</th>
+			<th></th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan="2">Columnas unidas</td>
+			<td></td>
+		</tr>
+	</table>
+
+	<table>
+		<tr>
+			<th rowspan="3">Filas unidas</th>
+			<th></th>
+			<th></th>
+			<th></th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<table>
+		<tr>
+			<th></th>
+			<th rowspan="2"></th>
+			<th></th>
+			<th></th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td rowspan="2"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<table>
+		<tr>
+			<th></th>
+			<th colspan="2" rowspan="2">Columnas y Filas unidas</th>
+			<th></th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</body>
+
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		table { 
+			margin-bottom: 10px;
+			margin:  auto;
+		}
+
+		table, td,th {
+			border: 1px solid black;
+			border-collapse: collapse;
+			padding: 5px;
+		}
+		#t1 td, #t1 th { 
+			border-style: dashed;
+			text-align: left; 
+		}
+		#t2 td, #t2 th {
+			border: none;
+			border-bottom: 1px solid #ddd;
+			text-align: left;
+		}
+		.nombre, .apellidos, .pais { width: 100px; }
+		#t3 { width: 50%; }
+	</style>
+</head>
+<body>
+	<table id="t1">
+		<caption>Listado de clientes</caption>
+		<tr>
+			<th width="300">Empresa</th>
+			<th width="200">Contacto</th>
+			<th width="100">Pais</th>
+			<th width="300">Correo</th>
+		</tr>
+		<tr>
+			<td>Alimentos saludables</td>
+			<td>Laura Ramirez</td>
+			<td>España</td>
+			<td>lramirez@gmail.com</td>
+		</tr>
+		<tr>
+			<td>Aluminios Ferrero</td>
+			<td>Antonio Ferrero</td>
+			<td>México</td>
+			<td>aferrero@gmail.com</td>
+		</tr>
+		<tr>
+			<td>Instalaciones eléctricas</td>
+			<td>Manuel Ivañez</td>
+			<td>Argentina</td>
+			<td>manueliv@gmail.com</td>
+		</tr>
+		<tr>
+			<td>Constructa Mar</td>
+			<td>Mar Lopez</td>
+			<td>España</td>
+			<td>marlopez@gmail.com</td>
+		</tr>
+		<tr>
+			<td>Persianas automáticas</td>
+			<td>Roberto Griñan</td>
+			<td>México</td>
+			<td>robertogri@gmail.com</td>
+		</tr>
+	</table>
+
+	<table id="t2">
+		<caption>Ganadores del concurso</caption>
+		<tr>
+			<th class="nombre">Nombre</th>
+			<th class="apellidos">Apellido</th>
+			<th class="pais">Pais</th>
+		</tr>
+		<tr>
+			<td>Laura</td>
+			<td>Ramirez</td>
+			<td>España</td>
+		</tr>
+		<tr>
+			<td>Antonio</td>
+			<td>Ferrero</td>
+			<td>México</td>
+		</tr>
+		<tr>
+			<td>Manuel</td>
+			<td>Ivañez</td>
+			<td>Argentina</td>
+		</tr>
+		<tr>
+			<td>Mar</td>
+			<td>Lopez</td>
+			<td>España</td>
+		</tr>
+		<tr>
+			<td>Roberto</td>
+			<td>Griñan</td>
+			<td>México</td>
+		</tr>
+	</table>
+
+	<table id="t3">
+		<caption>Horario de mañana</caption>
+		<tr>
+			<th>Horas</th>
+			<th>Lunes</th>
+			<th>Martes</th>
+			<th>Miercoles</th>
+			<th>Jueves</th>
+			<th>Viernes</th>
+		</tr>
+		<tr>
+			<th>8:00</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>9:00</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>10:00</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>11:00</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>12:00</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</body>
+</html>

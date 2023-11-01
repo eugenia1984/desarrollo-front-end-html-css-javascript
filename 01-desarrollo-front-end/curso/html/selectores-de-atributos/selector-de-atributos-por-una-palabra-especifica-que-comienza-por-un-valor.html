@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Selectores de atributost</title>
+	<style>
+		[title] {
+			width: 500px;
+			margin: auto;
+			padding: 5px;
+		}
+		[title^="Enc"] {
+			text-align: center;
+		}
+		[title^="en"] {
+			color: red;
+			text-decoration: none;
+		}
+		a[href^="https://www.url-2"] {
+			color: green;
+		}
+		a[target^="_se"] {
+			color: blue;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Selectores de atributos</h1>
+	</header>
+	<main>
+		<h2 title="Encabezado del artículo">Los selectores de atributos</h2>
+	<p title="Párrafo del artículo">Los selectores de atributos apuntan directamente a los atributos a los que hacen referencia, existen varios tipos de estos selectores, los básicos, los que apuntan a palabras específicas, que comienzan o terminan por palabras o que contienen ciertas palabras.</p>
+	<div title="Enlaces de artículo">
+		<a href="https://www.url-1.com" target="_blank" title="enlace numero-1">Enlace 1</a>
+		<a href="https://www.url-2.com" target="_blank" title="enlace numero-2">Enlace 2</a>
+		<a href="https://www.url-3.com" target="_self" title="enlace numero-3">Enlace 3</a>			
+	</div>	
+	</main>
+</body>
+</html>
