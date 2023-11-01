@@ -1,15 +1,37 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Propiedad abreviada para imagen de fondo</title>
-  <link rel="stylesheet" href="../../estilos/estilo-general.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="../../estilos/estilo-general.css">
+	<title>Document</title>
+	<style>
+		p { font-size: 48px; }
+	/*
+	background-color
+	background-image
+	background-repeat
+	background-attachment
+	background-position	
+	*/
+		.img-fondo-1 { background: #ffffff url(../../imagenes/flor.jpg) no-repeat fixed right top; }
+		.img-fondo-2 { background: url("../../imagenes/auricular.jpg") fixed; }
+		.img-fondo-3 { background: url("../../imagenes/mariposa.jpg") no-repeat fixed; }
+		.img-fondo-4 { background: url("../../imagenes/perro.jpg") scroll; }
+	</style>
 </head>
 <body>
-  <header>
-    <h1>Propiedad abreviada para imagen de fondo</h1>
-  </header>
-  <main></main>
+	<div class="al-600 r-30 m-10 est-2 img-fondo-1">
+		<p>Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Cumque in deleniti aspernatur tempore ab, vel pariatur accusantium totam vero reiciendis voluptas quidem optio voluptate quae velit repudiandae eius consequatur quia.</p>
+	</div>
+	<div class="al-600 r-30 m-10 est-2 img-fondo-2">
+		<p>Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Cumque in deleniti aspernatur tempore ab, vel pariatur accusantium totam vero reiciendis voluptas quidem optio voluptate quae velit repudiandae eius consequatur quia.</p>
+	</div>
+	<div class="al-600 r-30 m-10 est-2 img-fondo-3">
+		<p>Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Cumque in deleniti aspernatur tempore ab, vel pariatur accusantium totam vero reiciendis voluptas quidem optio voluptate quae velit repudiandae eius consequatur quia.</p>
+	</div>
+	<div class="al-600 r-30 m-10 est-2 img-fondo-4">
+		<p>Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Cumque in deleniti aspernatur tempore ab, vel pariatur accusantium totam vero reiciendis voluptas quidem optio voluptate quae velit repudiandae eius consequatur quia.</p>
+	</div>
 </body>
 </html>

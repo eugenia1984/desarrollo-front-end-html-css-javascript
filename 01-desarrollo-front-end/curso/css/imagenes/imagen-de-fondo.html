@@ -1,15 +1,36 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Imagen de fondo</title>
-  <link rel="stylesheet" href="../../estilos/estilo-general.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="../../estilos/estilo-general.css">
+	<title>Document</title>
+	<style>
+		body { height: 3000px; }
+		p { font-size: 28px; }
+		.img-fondo { background-image: url('../../imagenes/flor.jpg'); }
+		.img-mini { background-size: 250px 250px; }
+		.no-repeat { background-repeat: no-repeat; }
+		.repeat { background-repeat: round; }
+		.cover { background-size: cover; }
+		.fixed { background-attachment: fixed; }
+	</style>
 </head>
 <body>
-  <header>
-    <h1>Imagen de fondo</h1>
-  </header>
-  <main></main>
+	<div class="a-600 al-600 r-30 m-10 est-2 img-fondo img-mini">
+		<p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Odit obcaecati consequatur molestias maiores iste, debitis assumenda ad reiciendis voluptas nisi, repellat eius totam tenetur recusandae quis quae nulla nihil nostrum.</p>
+	</div>
+
+	<div class="a-600 al-600 r-30 m-10 est-2 img-fondo img-mini repeat">
+		<p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Odit obcaecati consequatur molestias maiores iste, debitis assumenda ad reiciendis voluptas nisi, repellat eius totam tenetur recusandae quis quae nulla nihil nostrum.</p>
+	</div>
+
+	<div class="a-600 al-600 r-30 m-10 est-2 img-fondo cover">
+		<p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Odit obcaecati consequatur molestias maiores iste, debitis assumenda ad reiciendis voluptas nisi, repellat eius totam tenetur recusandae quis quae nulla nihil nostrum.</p>
+	</div>
+
+	<div class="r-30 m-10 est-2 img-fondo fixed">
+		<p>Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Odit obcaecati consequatur molestias maiores iste, debitis assumenda ad reiciendis voluptas nisi, repellat eius totam tenetur recusandae quis quae nulla nihil nostrum.</p>
+	</div>
 </body>
 </html>

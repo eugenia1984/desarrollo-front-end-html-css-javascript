@@ -1,15 +1,29 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mapa de imágenes</title>
-  <link rel="stylesheet" href="../../estilos/estilo-general.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
 </head>
-<body>
-  <header>
-    <h1>Mapa de imágenes</h1>
-  </header>
-  <main></main>
+<body onmousemove="obtenPosicion(event)">
+	<img src="../../imagenes/redes-sociales.jpg" usemap="#redes-sociales" width="1024" height="768">
+
+	<map name="redes-sociales">
+		<area shape="circle" coords="200,400,70" href="https://twitter.com" alt="Twitter" target="_blank">
+		<area shape="circle" coords="370,350,60" href="https://tiktok.com" alt="TikTok" target="_blank">
+		<area shape="circle" coords="350,500,70" href="https://youtube.com" alt="Youtube" target="_blank">
+		<area shape="circle" coords="550,280,85" href="https://facebook.com" alt="Facebook" target="_blank">
+		<area shape="circle" coords="590,470,75" href="https://instagram.com" alt="Instagram" target="_blank">
+		<area shape="circle" coords="760,410,80" href="https://linkedin.com" alt="Linkedin" target="_blank">
+		<area shape="rect" coords="0,0,100,100" href="" alt="">
+	</map>
+
+	<div>X:Y - <span id="x"></span>:<span id="y"></span></div>
+	<script>
+		function obtenPosicion(event) {
+			document.getElementById('x').textContent = event.clientX;
+			document.getElementById('y').textContent = event.clientY;
+		}
+	</script>
 </body>
 </html>
