@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Texto</title>
+	<link rel="shortcut icon" href="https://img.icons8.com/stickers/100/text.png" type="image/png">
+	<style>
+		.horizontal {
+			writing-mode: horizontal-tb;
+		}
+
+		.vertical-rl {
+			writing-mode: vertical-rl;
+		}
+
+		.vertical-lr {
+			writing-mode: vertical-lr;
+		}
+
+		.orientar {
+			text-orientation: upright;
+		}
+	</style>
+</head>
+
+<body>
+	<p class="horizontal">Texto escrito con el modo de escritura por defecto.</p>
+	<p>Texto escrito con el <span class="vertical-rl">modo</span> de escritura vertical.</p>
+	<p>Texto escrito con el <span class="vertical-rl orientar">modo</span> de escritura vertical con letras reorientadas.
+	</p>
+
+	<p class="vertical-rl" style="height: 50px;">Texto escrito con el modo de escrituta vertical y ladirección de lectura,
+		escrituta de izquierda a derecha.</p>
+	<p class="vertical-lr" style="height: 50px; margin-top: 50px;">Texto escrito con el modo de escrituta vertical y
+		ladirección de lectura, escrituta de izquierda a derecha.</p>
+	<p class="vertical-rl orientar" style="height: 50px; margin-top: 250px;">Texto escrito con el modo de escrituta
+		vertical y ladirección de lectura, escrituta de izquierda a derecha.</p>
+	<p class="vertical-lr orientar" style="height: 50px; margin-top: 250px;">Texto escrito con el modo de escrituta
+		vertical y ladirección de lectura, escrituta de izquierda a derecha.</p>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		table {
+			width: 50%;
+			padding: 10px;
+			margin: auto;
+			background-color: #ddd;
+			border-radius: 10px;
+		}
+		tr:nth-child(even){ background-color: #ccc; }
+		td { padding: 5px; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>Submit</td>
+			<td><input type="submit" value="Enviar datos"></td>
+		</tr>
+		<tr>
+			<td>Reset</td>
+			<td><input type="reset" value="Reestablecer formulario"></td>
+		</tr>
+		<tr>
+			<td>Botón</td>
+			<td><input type="button" value="Púlsame!" onclick="alert('Botón pulsado!')"></td>
+		</tr>
+		<tr>
+			<td>Archivo</td>
+			<td><input type="file"></td>
+		</tr>
+		<tr>
+			<td>Imagen</td>
+			<td><input type="image" src="../../imagenes/login.png"></td>
+		</tr>
+	</table>
+</body>
+</html>

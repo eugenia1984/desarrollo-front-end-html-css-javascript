@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		form {
+			width: 300px;
+			padding: 15px;
+			margin: 10px;
+			background-color: dodgerblue;
+			color: white;
+			border-top: 5px solid black;
+			border-bottom: 5px solid black;
+		}
+		legend {
+			padding: 2px;
+			border-bottom: 2px solid white;
+		}
+	</style>
+</head>
+<body>
+	<form>
+		<fieldset>
+			<legend>Selecciona el color del vehículo</legend>
+			<input type="radio" name="color" value="Rojo"> Rojo<br>
+			<input type="radio" name="color" value="Verde"> Verde<br>
+			<input type="radio" name="color" value="Azul"> Azul<br>
+			<input type="radio" name="color" value="Amarillo"> Amarillo<br>
+			<input type="radio" name="color" value="Naranja"> Naranja<br>			
+		</fieldset>
+
+		<fieldset>
+			<legend>Selecciona los extras</legend>
+			<input type="checkbox" name="tipo" value="metalizado"> Color metalizado<br>
+			<input type="checkbox" name="llantas" value="deportivas"> Llantas deportivas<br>
+			<input type="checkbox" name="motor" value="electrico"> Motor eléctrico<br>
+			<input type="checkbox" name="seguro" value="ampliado"> Seguro ampliado<br>			
+		</fieldset>
+	</form>
+</body>
+</html>

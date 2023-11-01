@@ -1,0 +1,68 @@
+<!-- 📑 SOLUCIÓN DEL EJERCICIO: -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		form {
+			width: 550px;
+			height: 400px;
+			padding: 20px;
+			margin: auto;			
+			border: 1px solid #ccc;
+			outline: 5px solid #ddd;
+			outline-offset: -10px;
+			border-radius: 20px;
+			background-color: #eee;
+			color: gray;
+		}
+		fieldset {
+			padding: 10px;
+			border: 1px dashed #ccc;
+			border-radius: 10px;
+		}
+		legend {
+			font-size: 22px;
+		}
+		label {
+			width: 150px;
+			margin-bottom: 20px;
+			display: inline-block;
+		}
+		input, textarea {
+			padding: 5px;
+			border: 1px solid #ccc;
+			border-radius: 10px;
+			resize: none;
+		}
+		::placeholder {
+		  	color: #ccc;
+		}
+		[type=submit] {
+			padding: 10px;
+			background-color: dodgerblue;
+			color: white;
+			float: right;
+		}
+	</style>
+</head>
+<body>	
+	<form action="formulario-de-contacto.php" method="post">
+		<fieldset>
+			<legend>Formulario De Contacto</legend>
+			<label for="nombre" title="Campo obligatorio">Tu Nombre* </label>
+			<input type="text" name="nombre" placeholder="Nombre y Apellidos" id="nombre" size="36" required><br>
+			<label for="correo" title="Campo obligatorio">Tu Correo* </label>
+			<input type="text" name="correo" placeholder="Correo Électrónico" id="correo" size="36" required><br>
+			<label for="telefono">Tu Teléfono </label>
+			<input type="tel" name="telefono" placeholder="Teléfono" id="telefono" size="36"><br>
+			<label for="mensaje">Mensaje </label>
+			<textarea id="mensaje" name="mensaje" placeholder="Deja aquí tu mensaje" cols="50" rows="5"></textarea><br>
+			<input type="submit" value="Enviar Formulario">		
+		</fieldset>
+	</form>
+</body>
+</html>

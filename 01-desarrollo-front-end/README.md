@@ -40,13 +40,13 @@ Los cursos de este curso son:
   
 - [Enlaces](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/enlaces)  y tambien hay ejercicios dentro de **css**
 
--[Selectores de atributos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/selectores-de-atributos)
+- [Selectores de atributos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/selectores-de-atributos)
 
 - [Tablas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/tablas)  y tambien hay ejercicios dentro de **css**
 
-- textos
+- [Textos](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/textos)
 
-- Formularios
+- [Formularios](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/formularios)
 
 - Pseudo-clases de formulario
 

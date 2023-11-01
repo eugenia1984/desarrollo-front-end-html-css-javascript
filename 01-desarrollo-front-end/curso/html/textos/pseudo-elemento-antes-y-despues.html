@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://img.icons8.com/stickers/100/text.png" type="image/png">
+	<title>Texto</title>
+	<style>
+		section {
+			width: 300px;
+			padding: 10px;
+			background-color: #999;
+		}
+
+		p::before {
+			content: "Nota:  ";
+			color: white;
+			font-weight: 600;
+		}
+
+		h3::after {
+			content: " del encabezado";
+			text-decoration: underline;
+		}
+
+		a::before {
+			content: "⚓ ";
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>Texto - pseudo elemento before y after</h1>
+	</header>
+	<section>
+		<h3>Título</h3>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi impedit ex rerum libero, molestias nemo
+			consequatur, maiores tenetur quibusdam voluptas sunt nobis minus nisi veniam ipsa dolore ipsum odio soluta.</p>
+		<a href="">Enlace de prueba</a>
+	</section>
+
+</body>
+
+</html>

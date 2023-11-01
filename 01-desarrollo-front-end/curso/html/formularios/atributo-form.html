@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		form {
+			width: 400px;
+			padding: 10px;
+			margin: 5px;
+			border: 1px solid gray;
+		}
+		fieldset { background-color: #ddd; }
+	</style>
+</head>
+<body>
+	<form id="formulario-1" action="procesar-datos-1.html" target="_blank">
+		<fieldset>
+			<legend>Formulario 1</legend>
+			<table>
+				<tr>
+					<td><label for="nombre">Nombre:</label></td>
+					<td><input type="text" id="nombre" name="nombre"></td>
+				</tr>
+				<tr>
+					<td><label for="email">Email:</label></td>
+					<td><input type="email" id="email" name="email"></td>
+				</tr>
+			</table>
+			<label>
+				Estoy de acuerdo 
+				<input type="radio" name="condiciones">				
+			</label>
+			<label>
+				No estoy de acuerdo 
+				<input type="radio" name="condiciones">				
+			</label>
+			<input type="reset">
+		</fieldset>
+	</form>
+
+	<label for="externo" form="formulario-1">label fuera del formulario</label><br>
+	<input type="text" id="externo" form="formulario-1"><br>
+
+	<form id="formulario-2">
+		<fieldset>
+			<legend>Formulario 2</legend>
+			Aceptar todo <input type="checkbox" id="interno">
+			<input type="reset">
+		</fieldset>
+	</form>
+
+	<label for="interno" form="formulario-2">Púlsame para aceptarlo todo!</label>
+</body>
+</html>

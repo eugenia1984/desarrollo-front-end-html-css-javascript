@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		form {
+			width: 500px;
+			padding: 25px;
+			margin: 10px;
+			border-top: 5px solid dodgerblue;
+			background-color: #ddd;
+		}
+	</style>
+</head>
+<body>
+	<form>
+		Selecciona tu navegador
+		<input list="navegador">
+		<datalist id="navegador">
+			<option value="Chrome">
+			<option value="Firefox">
+			<option value="Safari">
+			<option value="Opera">
+			<option value="Internet Explorer">
+		</datalist>
+	</form>
+
+	<form>
+		Lenguaje de programación preferido
+		<input type="text" list="lenguajes">
+		<datalist id="lenguajes">
+			<option value="HTML">
+			<option value="CSS">
+			<option value="JavaScript">
+			<option value="Java">
+			<option value="Ruby">
+			<option value="PHP">
+			<option value="Python">
+			<option value="C">
+			<option value="C#">
+			<option value="C++">
+		</datalist>
+	</form>
+</body>
+</html>
