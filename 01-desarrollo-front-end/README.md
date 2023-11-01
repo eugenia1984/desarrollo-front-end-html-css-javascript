@@ -36,17 +36,57 @@ Los cursos de este curso son:
 
 - [Listas](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/listas)
 
-- [Imagenes](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/imagenes)
+- [Imagenes](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/imagenes) y tambien hay ejercicios dentro de **css**
   
-- Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
+- [Enlaces](https://github.com/eugenia1984/desarrollo-front-end-html-css-javascript/tree/main/01-desarrollo-front-end/curso/html/enlaces)  y tambien hay ejercicios dentro de **css**
 
-- Un curso para ser mas eficiente con CSS a través de **LESS**.
+- Selectores de atributos
 
-- Un Curso sobre el lenguaje de programación **JavaScript**.
+- Tablas
 
-- Un curso sobre la librería **JQuery** y **JQuery-UI** para interfaces de usuario.
+- textos
 
-- Un curso introductorio sobre **VUE.js**.
+- Formularios
+
+- Pseudo-clases de formulario
+
+- Multimedia
+
+- Fuentes
+
+- Especificidad
+
+- Sombras
+
+- Gradientes
+
+- transiciones
+
+- Transformaciones 2D
+
+- Transiciones con Transformaciones
+
+- Botones
+
+- Animaciones
+
+- Cursores
+
+- Media Queries
+
+-> Web de anime
+
+-> Web de hoteles
+
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre como subir tus proyectos a internet y mostrarlos en Google.
+
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso para ser mas eficiente con CSS a través de **LESS**.
+
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un Curso sobre el lenguaje de programación **JavaScript**.
+
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso sobre la librería **JQuery** y **JQuery-UI** para interfaces de usuario.
+
+<img width="30" height="30" src="https://img.icons8.com/emoji/30/check-mark-emoji.png" alt="check mark"/> Un curso introductorio sobre **VUE.js**.
 
 ---
 
